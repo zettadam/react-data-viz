@@ -1,0 +1,8 @@
+.recharts-xAxis .recharts-cartesian-axis-tick-value tspan,
+.recharts-yAxis .recharts-cartesian-axis-tick-value tspan {
+  font-size: 13px;
+}
+
+.recharts-default-legend .recharts-legend-item {
+  margin: 0;
+}
