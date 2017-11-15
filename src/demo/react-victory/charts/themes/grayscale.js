@@ -46,7 +46,7 @@ const centeredLabelStyles = assign({ textAnchor: "middle" }, baseLabelStyles);
 // *
 // * Strokes
 // *
-const strokeDasharray = "10, 5"
+//const strokeDasharray = "10, 5"
 const strokeLinecap = "round"
 const strokeLinejoin = "round"
 

@@ -7,18 +7,18 @@ import { AxisLeft, AxisBottom } from '@vx/axis'
 import { Grid } from '@vx/grid'
 import { Group } from '@vx/group'
 import { AreaClosed, AreaStack } from '@vx/shape'
-import { GlyphDot } from '@vx/glyph'
+//import { GlyphDot } from '@vx/glyph'
 import { scaleTime, scaleLinear } from '@vx/scale'
 import { ScaleSVG } from '@vx/responsive'
 
 // D3 module imports
-import { extent, max, sum } from 'd3-array'
-import { timeFormat, timeParse } from 'd3-time-format'
+import { max, sum } from 'd3-array'
+import { timeParse } from 'd3-time-format'
 
 import COLORS from 'common/colorSchemes'
 import { CURVE_MAP } from '../common'
 
-const parseDate = timeParse("%Y %b %d")
+//const parseDate = timeParse("%Y %b %d")
 const xStock = d => new Date(d.date)
 
 const makeTimeSeries = ({
@@ -166,7 +166,7 @@ export default class Area extends Component {
       stacked,
       theme,
       timeFormat,
-      xField, xFormat, xScale,
+      xField, xScale,
       yFields, yScale
     } = options
 

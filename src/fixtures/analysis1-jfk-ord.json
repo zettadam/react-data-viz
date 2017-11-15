@@ -1,0 +1,2334 @@
+[
+  {
+    "airlineCode": "DZ",
+    "totalDemand": 2861.4223751474638,
+    "totalTraffic": 3008.4713694760576
+  },
+  {
+    "airlineCode": "MM",
+    "totalDemand": 34595.1815032959,
+    "totalTraffic": 34791.91594314575
+  },
+  {
+    "airlineCode": "XU",
+    "totalDemand": 2.1361540406942368,
+    "totalTraffic": 2.3627758529037237
+  },
+  {
+    "airlineCode": "Z9",
+    "totalDemand": 1.769517034292221,
+    "totalTraffic": 2.1763483434915543
+  },
+  {
+    "airlineCode": "XT",
+    "totalDemand": 8265.414333358407,
+    "totalTraffic": 8399.449323687702
+  },
+  {
+    "airlineCode": "RG",
+    "totalDemand": 781.74524974823,
+    "totalTraffic": 922.4376049041748
+  },
+  { "airlineCode": "YH", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "3K",
+    "totalDemand": 43720.06748398207,
+    "totalTraffic": 46334.2457797667
+  },
+  {
+    "airlineCode": "CI",
+    "totalDemand": 206225.63167763443,
+    "totalTraffic": 210203.84287147818
+  },
+  {
+    "airlineCode": "PC",
+    "totalDemand": 70627.44859497453,
+    "totalTraffic": 67308.33094669785
+  },
+  {
+    "airlineCode": "9P",
+    "totalDemand": 2657.4215539321303,
+    "totalTraffic": 2836.0200771540403
+  },
+  {
+    "airlineCode": "AZ",
+    "totalDemand": 321029.7922160463,
+    "totalTraffic": 289009.76214976056
+  },
+  {
+    "airlineCode": "FI",
+    "totalDemand": 27521.356977117714,
+    "totalTraffic": 29949.55234833015
+  },
+  { "airlineCode": "JH", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  { "airlineCode": "PM", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "SC",
+    "totalDemand": 12714.55244401074,
+    "totalTraffic": 12123.714898952516
+  },
+  {
+    "airlineCode": "A9",
+    "totalDemand": 411.04034262080677,
+    "totalTraffic": 302.85269155190326
+  },
+  {
+    "airlineCode": "Q7",
+    "totalDemand": 1618.327057032846,
+    "totalTraffic": 1597.4504510145634
+  },
+  {
+    "airlineCode": "UA",
+    "totalDemand": 2425504.5666463287,
+    "totalTraffic": 2274577.5431302832
+  },
+  {
+    "airlineCode": "2Z",
+    "totalDemand": 16.192723363405094,
+    "totalTraffic": 13.618819237744901
+  },
+  {
+    "airlineCode": "NS",
+    "totalDemand": 1117.87792080082,
+    "totalTraffic": 1117.921133092139
+  },
+  {
+    "airlineCode": "3M",
+    "totalDemand": 7335.05562979728,
+    "totalTraffic": 7208.434779841453
+  },
+  {
+    "airlineCode": "RO",
+    "totalDemand": 18989.678441854718,
+    "totalTraffic": 19655.415101858845
+  },
+  {
+    "airlineCode": "V7",
+    "totalDemand": 2689.9674549102783,
+    "totalTraffic": 3359.7603721618652
+  },
+  {
+    "airlineCode": "ZM",
+    "totalDemand": 459.4605528106913,
+    "totalTraffic": 461.4423847356811
+  },
+  {
+    "airlineCode": "DV",
+    "totalDemand": 198.19420950487256,
+    "totalTraffic": 199.74364559166133
+  },
+  {
+    "airlineCode": "SL",
+    "totalDemand": 0.2854068625019863,
+    "totalTraffic": 0.21470889943884686
+  },
+  {
+    "airlineCode": "D7",
+    "totalDemand": 50652.72384214401,
+    "totalTraffic": 54776.657950520515
+  },
+  {
+    "airlineCode": "LA",
+    "totalDemand": 117664.44670188142,
+    "totalTraffic": 132381.35255305574
+  },
+  {
+    "airlineCode": "NL",
+    "totalDemand": 31627.58328619413,
+    "totalTraffic": 35770.269817261025
+  },
+  {
+    "airlineCode": "SB",
+    "totalDemand": 409.0668056420982,
+    "totalTraffic": 483.34936363622546
+  },
+  {
+    "airlineCode": "U2",
+    "totalDemand": 308937.33728680015,
+    "totalTraffic": 327939.62127143145
+  },
+  {
+    "airlineCode": "W6",
+    "totalDemand": 34286.501718848944,
+    "totalTraffic": 35652.43210467696
+  },
+  {
+    "airlineCode": "XQ",
+    "totalDemand": 24947.67255403893,
+    "totalTraffic": 20500.09542877949
+  },
+  { "airlineCode": "YN", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "BS",
+    "totalDemand": 0.06851828389335424,
+    "totalTraffic": 0.06611884129233658
+  },
+  {
+    "airlineCode": "BW",
+    "totalDemand": 28012.468884479254,
+    "totalTraffic": 29980.987751279026
+  },
+  {
+    "airlineCode": "MN",
+    "totalDemand": 15627.318573635072,
+    "totalTraffic": 16162.23675169982
+  },
+  {
+    "airlineCode": "PZ",
+    "totalDemand": 283.30863414891064,
+    "totalTraffic": 298.7579844482243
+  },
+  {
+    "airlineCode": "TB",
+    "totalDemand": 5991.668911070621,
+    "totalTraffic": 6380.750341938809
+  },
+  {
+    "airlineCode": "NK",
+    "totalDemand": 274025.5463456884,
+    "totalTraffic": 310343.8043860346
+  },
+  {
+    "airlineCode": "4O",
+    "totalDemand": 62662.84548328625,
+    "totalTraffic": 69321.37223865098
+  },
+  {
+    "airlineCode": "EP",
+    "totalDemand": 223.68182392872404,
+    "totalTraffic": 225.63316118670627
+  },
+  { "airlineCode": "F2", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "XL",
+    "totalDemand": 16814.81909354776,
+    "totalTraffic": 17234.866472200025
+  },
+  {
+    "airlineCode": "AM",
+    "totalDemand": 165718.28845166077,
+    "totalTraffic": 170042.58790317364
+  },
+  { "airlineCode": "PL", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "PS",
+    "totalDemand": 42241.64650652744,
+    "totalTraffic": 44439.08423821628
+  },
+  {
+    "airlineCode": "AA",
+    "totalDemand": 3801610.4645693433,
+    "totalTraffic": 3625664.39055663
+  },
+  {
+    "airlineCode": "MK",
+    "totalDemand": 21802.007000765298,
+    "totalTraffic": 19609.78491367097
+  },
+  {
+    "airlineCode": "Z4",
+    "totalDemand": 370.2692012512125,
+    "totalTraffic": 342.7150677163154
+  },
+  {
+    "airlineCode": "AY",
+    "totalDemand": 170641.77782979445,
+    "totalTraffic": 145189.4760103675
+  },
+  {
+    "airlineCode": "DR",
+    "totalDemand": 1.8567818304290995,
+    "totalTraffic": 1.92810312891379
+  },
+  {
+    "airlineCode": "RA",
+    "totalDemand": 2434.079235466197,
+    "totalTraffic": 2920.0533454921097
+  },
+  { "airlineCode": "K8", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "8P",
+    "totalDemand": 30.600006257591303,
+    "totalTraffic": 32.61986352998065
+  },
+  {
+    "airlineCode": "E9",
+    "totalDemand": 1810.868034362793,
+    "totalTraffic": 2027.2199401855469
+  },
+  {
+    "airlineCode": "IB",
+    "totalDemand": 253203.07006821755,
+    "totalTraffic": 250110.40705184426
+  },
+  {
+    "airlineCode": "V0",
+    "totalDemand": 4947.5733474195,
+    "totalTraffic": 4960.134060099721
+  },
+  {
+    "airlineCode": "QL",
+    "totalDemand": 3854.1711104055867,
+    "totalTraffic": 4027.190831451677
+  },
+  {
+    "airlineCode": "TV",
+    "totalDemand": 2798.723134306143,
+    "totalTraffic": 2506.832642485737
+  },
+  {
+    "airlineCode": "BP",
+    "totalDemand": 97.79090569168329,
+    "totalTraffic": 103.76150323078036
+  },
+  {
+    "airlineCode": "I5",
+    "totalDemand": 6557.723938693991,
+    "totalTraffic": 6575.786973506212
+  },
+  {
+    "airlineCode": "XG",
+    "totalDemand": 2430.4336001146585,
+    "totalTraffic": 2366.623571615666
+  },
+  {
+    "airlineCode": "PD",
+    "totalDemand": 10735.817846600432,
+    "totalTraffic": 11110.90813140024
+  },
+  {
+    "airlineCode": "NX",
+    "totalDemand": 26696.907186725643,
+    "totalTraffic": 24743.603468165034
+  },
+  {
+    "airlineCode": "SM",
+    "totalDemand": 4181.285554571077,
+    "totalTraffic": 4261.302037267014
+  },
+  {
+    "airlineCode": "B4",
+    "totalDemand": 0.0829086322337389,
+    "totalTraffic": 0.08595645986497402
+  },
+  {
+    "airlineCode": "CN",
+    "totalDemand": 1522.9358412623405,
+    "totalTraffic": 1523.5315585061908
+  },
+  {
+    "airlineCode": "H1",
+    "totalDemand": 959.9455419308943,
+    "totalTraffic": 908.0852105334634
+  },
+  {
+    "airlineCode": "VY",
+    "totalDemand": 152956.7529736976,
+    "totalTraffic": 159425.73770304385
+  },
+  {
+    "airlineCode": "FG",
+    "totalDemand": 2895.751345515251,
+    "totalTraffic": 2956.173397898674
+  },
+  {
+    "airlineCode": "JC",
+    "totalDemand": 0.5593256460269913,
+    "totalTraffic": 0.5724692344083451
+  },
+  {
+    "airlineCode": "OR",
+    "totalDemand": 7296.557928085327,
+    "totalTraffic": 7437.388137817383
+  },
+  {
+    "airlineCode": "T3",
+    "totalDemand": 2062.592473626137,
+    "totalTraffic": 2071.2360268235207
+  },
+  {
+    "airlineCode": "7R",
+    "totalDemand": 150.67013769596815,
+    "totalTraffic": 150.87395691126585
+  },
+  {
+    "airlineCode": "UM",
+    "totalDemand": 45.52232219837606,
+    "totalTraffic": 48.70563261397183
+  },
+  {
+    "airlineCode": "8V",
+    "totalDemand": 881.664498180151,
+    "totalTraffic": 918.8940746188164
+  },
+  {
+    "airlineCode": "A2",
+    "totalDemand": 0.8610791247338057,
+    "totalTraffic": 0.9395088357850909
+  },
+  {
+    "airlineCode": "AT",
+    "totalDemand": 75289.39138099109,
+    "totalTraffic": 76418.6975032682
+  },
+  {
+    "airlineCode": "SW",
+    "totalDemand": 2399.8736747596413,
+    "totalTraffic": 2442.8085098220035
+  },
+  {
+    "airlineCode": "UL",
+    "totalDemand": 50728.60847453587,
+    "totalTraffic": 56842.47060569562
+  },
+  { "airlineCode": "7Y", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "AV",
+    "totalDemand": 258722.5905829387,
+    "totalTraffic": 245545.1336733335
+  },
+  {
+    "airlineCode": "S7",
+    "totalDemand": 28809.637222102203,
+    "totalTraffic": 28512.488733883016
+  },
+  {
+    "airlineCode": "WP",
+    "totalDemand": 150.21172408782877,
+    "totalTraffic": 222.79513573879376
+  },
+  {
+    "airlineCode": "HY",
+    "totalDemand": 8307.141493833624,
+    "totalTraffic": 8995.427280731034
+  },
+  { "airlineCode": "LF", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  { "airlineCode": "YJ", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  { "airlineCode": "BU", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "JJ",
+    "totalDemand": 94376.43339598595,
+    "totalTraffic": 99502.3151703045
+  },
+  {
+    "airlineCode": "SJ",
+    "totalDemand": 2771.269984866027,
+    "totalTraffic": 2841.6521679543657
+  },
+  {
+    "airlineCode": "E4",
+    "totalDemand": 17.735910534858704,
+    "totalTraffic": 6.361187696456909
+  },
+  {
+    "airlineCode": "EQ",
+    "totalDemand": 22773.622191068716,
+    "totalTraffic": 21681.365086192265
+  },
+  { "airlineCode": "CG", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "K3",
+    "totalDemand": 125.3702659830451,
+    "totalTraffic": 125.3702659830451
+  },
+  {
+    "airlineCode": "QF",
+    "totalDemand": 278548.23189336166,
+    "totalTraffic": 277118.64154121844
+  },
+  {
+    "airlineCode": "X4",
+    "totalDemand": 43.00000047683716,
+    "totalTraffic": 43.00000047683716
+  },
+  {
+    "airlineCode": "AD",
+    "totalDemand": 18950.227936120005,
+    "totalTraffic": 15218.906428642513
+  },
+  {
+    "airlineCode": "NT",
+    "totalDemand": 50.34099807403982,
+    "totalTraffic": 50.51732971519232
+  },
+  {
+    "airlineCode": "Z8",
+    "totalDemand": 85.46313893655315,
+    "totalTraffic": 89.2571285427548
+  },
+  { "airlineCode": "2L", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "HV",
+    "totalDemand": 40700.2532916069,
+    "totalTraffic": 37328.77269935608
+  },
+  {
+    "airlineCode": "LI",
+    "totalDemand": 4185.668837225065,
+    "totalTraffic": 5613.777031136677
+  },
+  {
+    "airlineCode": "SV",
+    "totalDemand": 421904.05765382387,
+    "totalTraffic": 411905.49542938406
+  },
+  {
+    "airlineCode": "HR",
+    "totalDemand": 8.868285059928894,
+    "totalTraffic": 8.993430256843567
+  },
+  {
+    "airlineCode": "B6",
+    "totalDemand": 509355.259973492,
+    "totalTraffic": 547883.7386931544
+  },
+  {
+    "airlineCode": "BX",
+    "totalDemand": 20874.31198315666,
+    "totalTraffic": 21060.92562284667
+  },
+  {
+    "airlineCode": "CZ",
+    "totalDemand": 539989.0674852203,
+    "totalTraffic": 518521.6271664737
+  },
+  {
+    "airlineCode": "NP",
+    "totalDemand": 2079.1557284700684,
+    "totalTraffic": 2114.19859971758
+  },
+  {
+    "airlineCode": "VA",
+    "totalDemand": 121256.88097601349,
+    "totalTraffic": 120147.91918631922
+  },
+  {
+    "airlineCode": "WE",
+    "totalDemand": 8815.341699123383,
+    "totalTraffic": 9277.568631804315
+  },
+  {
+    "airlineCode": "B2",
+    "totalDemand": 6070.294520737603,
+    "totalTraffic": 6440.481835898012
+  },
+  { "airlineCode": "LN", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "QC",
+    "totalDemand": 1498.757180584129,
+    "totalTraffic": 1649.6549287766684
+  },
+  {
+    "airlineCode": "TU",
+    "totalDemand": 33789.86569274939,
+    "totalTraffic": 34075.8305181379
+  },
+  {
+    "airlineCode": "VJ",
+    "totalDemand": 15750.513055426301,
+    "totalTraffic": 15938.325083732081
+  },
+  {
+    "airlineCode": "X7",
+    "totalDemand": 36.86000061035156,
+    "totalTraffic": 36.86000061035156
+  },
+  {
+    "airlineCode": "FW",
+    "totalDemand": 48.76668519421946,
+    "totalTraffic": 55.80000361800194
+  },
+  {
+    "airlineCode": "IW",
+    "totalDemand": 0.05260849744081497,
+    "totalTraffic": 0.045674767869058996
+  },
+  { "airlineCode": "VQ", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "PG",
+    "totalDemand": 40458.41644990479,
+    "totalTraffic": 40750.09873529326
+  },
+  {
+    "airlineCode": "RQ",
+    "totalDemand": 2366.9344722628593,
+    "totalTraffic": 2353.33762049675
+  },
+  {
+    "airlineCode": "CX",
+    "totalDemand": 485495.8092050834,
+    "totalTraffic": 477404.16572234395
+  },
+  {
+    "airlineCode": "FY",
+    "totalDemand": 1170.4294611278674,
+    "totalTraffic": 1154.9394684235085
+  },
+  {
+    "airlineCode": "3U",
+    "totalDemand": 79400.71549545415,
+    "totalTraffic": 83024.52228481893
+  },
+  {
+    "airlineCode": "KY",
+    "totalDemand": 6710.923758864519,
+    "totalTraffic": 6872.44903014478
+  },
+  {
+    "airlineCode": "S4",
+    "totalDemand": 2936.7837457456626,
+    "totalTraffic": 2931.013188046869
+  },
+  {
+    "airlineCode": "WY",
+    "totalDemand": 129958.39224775275,
+    "totalTraffic": 126436.64082108252
+  },
+  {
+    "airlineCode": "BC",
+    "totalDemand": 22060.939513227553,
+    "totalTraffic": 22538.90621250961
+  },
+  {
+    "airlineCode": "JD",
+    "totalDemand": 13808.006307836622,
+    "totalTraffic": 14031.89286798914
+  },
+  {
+    "airlineCode": "4N",
+    "totalDemand": 15.297560119070113,
+    "totalTraffic": 18.985643232241273
+  },
+  {
+    "airlineCode": "NH",
+    "totalDemand": 303760.34575610096,
+    "totalTraffic": 302026.03190603945
+  },
+  {
+    "airlineCode": "DX",
+    "totalDemand": 53.4876708984375,
+    "totalTraffic": 42.387779235839844
+  },
+  {
+    "airlineCode": "7C",
+    "totalDemand": 37519.21972896028,
+    "totalTraffic": 40322.00972584047
+  },
+  {
+    "airlineCode": "FZ",
+    "totalDemand": 170858.66140922904,
+    "totalTraffic": 176986.8311041221
+  },
+  {
+    "airlineCode": "KL",
+    "totalDemand": 724578.9505210107,
+    "totalTraffic": 554964.3691894598
+  },
+  {
+    "airlineCode": "U6",
+    "totalDemand": 1488.934901804314,
+    "totalTraffic": 1606.2771282541798
+  },
+  {
+    "airlineCode": "LR",
+    "totalDemand": 0.018785905092954636,
+    "totalTraffic": 0.08542072074487805
+  },
+  {
+    "airlineCode": "I4",
+    "totalDemand": 173.4034333229065,
+    "totalTraffic": 173.4034333229065
+  },
+  {
+    "airlineCode": "5R",
+    "totalDemand": 358.14342963695526,
+    "totalTraffic": 381.391281247139
+  },
+  {
+    "airlineCode": "MI",
+    "totalDemand": 48332.41984448666,
+    "totalTraffic": 43159.37196468716
+  },
+  {
+    "airlineCode": "TW",
+    "totalDemand": 15971.204084370984,
+    "totalTraffic": 16853.321779132937
+  },
+  {
+    "airlineCode": "W2",
+    "totalDemand": 88.19689583778381,
+    "totalTraffic": 96.68126392364502
+  },
+  { "airlineCode": "C3", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "GV",
+    "totalDemand": 2078.853137298487,
+    "totalTraffic": 2069.452436570078
+  },
+  {
+    "airlineCode": "OA",
+    "totalDemand": 20030.95944615535,
+    "totalTraffic": 20100.371468962694
+  },
+  {
+    "airlineCode": "R3",
+    "totalDemand": 17.702067375183105,
+    "totalTraffic": 15.729959964752197
+  },
+  {
+    "airlineCode": "XY",
+    "totalDemand": 69877.3105945997,
+    "totalTraffic": 70897.69822952896
+  },
+  {
+    "airlineCode": "K6",
+    "totalDemand": 1255.897760661319,
+    "totalTraffic": 1288.655995744397
+  },
+  {
+    "airlineCode": "SU",
+    "totalDemand": 246430.15283323504,
+    "totalTraffic": 245908.8952195217
+  },
+  {
+    "airlineCode": "ZE",
+    "totalDemand": 9082.501716538682,
+    "totalTraffic": 9263.56378498979
+  },
+  {
+    "airlineCode": "KK",
+    "totalDemand": 14466.98070249334,
+    "totalTraffic": 15385.258929366246
+  },
+  {
+    "airlineCode": "LB",
+    "totalDemand": 890.0312631039415,
+    "totalTraffic": 896.814152830746
+  },
+  {
+    "airlineCode": "PY",
+    "totalDemand": 5574.611665800214,
+    "totalTraffic": 6002.893378138542
+  },
+  {
+    "airlineCode": "QB",
+    "totalDemand": 6957.260272979736,
+    "totalTraffic": 6756.160312652588
+  },
+  {
+    "airlineCode": "U5",
+    "totalDemand": 308.05472564697266,
+    "totalTraffic": 308.05472564697266
+  },
+  {
+    "airlineCode": "LX",
+    "totalDemand": 312272.2764819674,
+    "totalTraffic": 303933.7167805694
+  },
+  {
+    "airlineCode": "TO",
+    "totalDemand": 13568.008180737495,
+    "totalTraffic": 13336.923997998238
+  },
+  {
+    "airlineCode": "F7",
+    "totalDemand": 518.449357394129,
+    "totalTraffic": 513.5387291619554
+  },
+  {
+    "airlineCode": "ID",
+    "totalDemand": 4222.395492146257,
+    "totalTraffic": 4337.881283495692
+  },
+  {
+    "airlineCode": "LY",
+    "totalDemand": 43915.35089926969,
+    "totalTraffic": 49859.31728003151
+  },
+  {
+    "airlineCode": "VR",
+    "totalDemand": 3262.9030025219545,
+    "totalTraffic": 3357.6461326638237
+  },
+  {
+    "airlineCode": "D3",
+    "totalDemand": 306.43990963697433,
+    "totalTraffic": 375.8713378608227
+  },
+  {
+    "airlineCode": "DD",
+    "totalDemand": 1.4842536058276892,
+    "totalTraffic": 1.349343464244157
+  },
+  {
+    "airlineCode": "TP",
+    "totalDemand": 157120.80651320104,
+    "totalTraffic": 151551.9871009711
+  },
+  {
+    "airlineCode": "7H",
+    "totalDemand": 8928.714261431247,
+    "totalTraffic": 9117.754602018744
+  },
+  {
+    "airlineCode": "PK",
+    "totalDemand": 97657.85948232934,
+    "totalTraffic": 103095.41299259895
+  },
+  {
+    "airlineCode": "SA",
+    "totalDemand": 114550.41264709528,
+    "totalTraffic": 109867.73373196158
+  },
+  {
+    "airlineCode": "GZ",
+    "totalDemand": 0.2841867581009865,
+    "totalTraffic": 0.2841867581009865
+  },
+  { "airlineCode": "9F", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "BL",
+    "totalDemand": 2820.8750685697887,
+    "totalTraffic": 2901.515648906585
+  },
+  {
+    "airlineCode": "BM",
+    "totalDemand": 4555.428021214902,
+    "totalTraffic": 4110.948419474065
+  },
+  {
+    "airlineCode": "CA",
+    "totalDemand": 566861.6192862199,
+    "totalTraffic": 569572.9174140709
+  },
+  {
+    "airlineCode": "DL",
+    "totalDemand": 3158994.048635358,
+    "totalTraffic": 2957819.2669424573
+  },
+  {
+    "airlineCode": "MW",
+    "totalDemand": 11566.759313322604,
+    "totalTraffic": 4665.904895231128
+  },
+  {
+    "airlineCode": "T7",
+    "totalDemand": 437.78553120046854,
+    "totalTraffic": 466.0098180323839
+  },
+  { "airlineCode": "F5", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "NE",
+    "totalDemand": 461.6397771448828,
+    "totalTraffic": 462.1871865419671
+  },
+  {
+    "airlineCode": "QH",
+    "totalDemand": 2.873974082991481,
+    "totalTraffic": 3.815752233378589
+  },
+  {
+    "airlineCode": "KX",
+    "totalDemand": 6251.021554723382,
+    "totalTraffic": 6209.602755934
+  },
+  {
+    "airlineCode": "MT",
+    "totalDemand": 7535.286507342593,
+    "totalTraffic": 7232.191535849241
+  },
+  { "airlineCode": "V4", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  { "airlineCode": "YE", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "JY",
+    "totalDemand": 1423.3885159865022,
+    "totalTraffic": 1442.4953554775566
+  },
+  {
+    "airlineCode": "S3",
+    "totalDemand": 9601.744144439697,
+    "totalTraffic": 7834.047145843506
+  },
+  {
+    "airlineCode": "3F",
+    "totalDemand": 168.9449998140335,
+    "totalTraffic": 168.9449998140335
+  },
+  {
+    "airlineCode": "BR",
+    "totalDemand": 167401.0411029854,
+    "totalTraffic": 174904.48133586813
+  },
+  {
+    "airlineCode": "Z6",
+    "totalDemand": 361.70354056410724,
+    "totalTraffic": 361.97091147856554
+  },
+  {
+    "airlineCode": "O9",
+    "totalDemand": 363.1919250488281,
+    "totalTraffic": 97.0
+  },
+  {
+    "airlineCode": "HO",
+    "totalDemand": 113697.21664951369,
+    "totalTraffic": 111480.94042712788
+  },
+  {
+    "airlineCode": "UO",
+    "totalDemand": 34967.41926121712,
+    "totalTraffic": 36092.51351737976
+  },
+  {
+    "airlineCode": "ZD",
+    "totalDemand": 9.829999923706055,
+    "totalTraffic": 9.829999923706055
+  },
+  {
+    "airlineCode": "VT",
+    "totalDemand": 378.10679653286934,
+    "totalTraffic": 377.5836142003536
+  },
+  {
+    "airlineCode": "5U",
+    "totalDemand": 144.13865661621094,
+    "totalTraffic": 87.30746269226074
+  },
+  {
+    "airlineCode": "9K",
+    "totalDemand": 6398.812802225351,
+    "totalTraffic": 4502.6628050506115
+  },
+  {
+    "airlineCode": "0B",
+    "totalDemand": 13643.067526177038,
+    "totalTraffic": 14180.929832906026
+  },
+  {
+    "airlineCode": "4W",
+    "totalDemand": 485.2323844432831,
+    "totalTraffic": 463.552806019783
+  },
+  {
+    "airlineCode": "EN",
+    "totalDemand": 3120.3321449756622,
+    "totalTraffic": 3299.087333917618
+  },
+  {
+    "airlineCode": "GK",
+    "totalDemand": 23348.02656883991,
+    "totalTraffic": 23826.807738825737
+  },
+  {
+    "airlineCode": "MD",
+    "totalDemand": 1726.5239138901234,
+    "totalTraffic": 1835.3441587090492
+  },
+  {
+    "airlineCode": "DE",
+    "totalDemand": 26073.89875709545,
+    "totalTraffic": 32039.07774123689
+  },
+  {
+    "airlineCode": "IO",
+    "totalDemand": 1.05598646402359,
+    "totalTraffic": 1.064892590045929
+  },
+  {
+    "airlineCode": "AW",
+    "totalDemand": 19.315058574080467,
+    "totalTraffic": 156.06948552280664
+  },
+  {
+    "airlineCode": "Q5",
+    "totalDemand": 48.78000247478485,
+    "totalTraffic": 48.78000247478485
+  },
+  {
+    "airlineCode": "FB",
+    "totalDemand": 7768.902183393715,
+    "totalTraffic": 7968.312094052322
+  },
+  {
+    "airlineCode": "SP",
+    "totalDemand": 127.83582906424999,
+    "totalTraffic": 128.32450023293495
+  },
+  {
+    "airlineCode": "Q2",
+    "totalDemand": 2061.3310850728303,
+    "totalTraffic": 1272.93773557432
+  },
+  {
+    "airlineCode": "IJ",
+    "totalDemand": 1274.5746383666992,
+    "totalTraffic": 1287.0740280151367
+  },
+  {
+    "airlineCode": "IR",
+    "totalDemand": 9163.315936083905,
+    "totalTraffic": 9277.57256760262
+  },
+  {
+    "airlineCode": "NR",
+    "totalDemand": 187.36488796770573,
+    "totalTraffic": 188.71190905570984
+  },
+  {
+    "airlineCode": "PB",
+    "totalDemand": 1.9661605621222407,
+    "totalTraffic": 2.0694642236921936
+  },
+  { "airlineCode": "MO", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "PV",
+    "totalDemand": 23.009515583515167,
+    "totalTraffic": 23.013148590922356
+  },
+  {
+    "airlineCode": "8Q",
+    "totalDemand": 6376.63764328137,
+    "totalTraffic": 7276.5360440658405
+  },
+  {
+    "airlineCode": "4T",
+    "totalDemand": 25.22833126038313,
+    "totalTraffic": 32.23963950946927
+  },
+  {
+    "airlineCode": "F9",
+    "totalDemand": 144342.6929967869,
+    "totalTraffic": 169628.5694030244
+  },
+  {
+    "airlineCode": "OX",
+    "totalDemand": 0.03151084785349667,
+    "totalTraffic": 0.0278578398283571
+  },
+  {
+    "airlineCode": "R7",
+    "totalDemand": 3524.915112464223,
+    "totalTraffic": 3529.0015758662485
+  },
+  {
+    "airlineCode": "RC",
+    "totalDemand": 8.666790008544922,
+    "totalTraffic": 8.668587684631348
+  },
+  {
+    "airlineCode": "9W",
+    "totalDemand": 338485.46814460447,
+    "totalTraffic": 324304.8898860032
+  },
+  {
+    "airlineCode": "J2",
+    "totalDemand": 4039.075532415416,
+    "totalTraffic": 4235.54632056714
+  },
+  {
+    "airlineCode": "ME",
+    "totalDemand": 35602.282978996634,
+    "totalTraffic": 36215.12808927894
+  },
+  { "airlineCode": "MR", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "TR",
+    "totalDemand": 48221.716069405666,
+    "totalTraffic": 51004.7124270075
+  },
+  {
+    "airlineCode": "WW",
+    "totalDemand": 10844.27023011446,
+    "totalTraffic": 11386.244214683771
+  },
+  {
+    "airlineCode": "ZV",
+    "totalDemand": 7529.698883056641,
+    "totalTraffic": 8115.777763366699
+  },
+  {
+    "airlineCode": "OD",
+    "totalDemand": 30057.55017378321,
+    "totalTraffic": 31882.88357173605
+  },
+  {
+    "airlineCode": "7G",
+    "totalDemand": 19630.89895142516,
+    "totalTraffic": 19964.752292537712
+  },
+  {
+    "airlineCode": "VB",
+    "totalDemand": 16415.691044271167,
+    "totalTraffic": 16916.527013985295
+  },
+  {
+    "airlineCode": "EB",
+    "totalDemand": 726.5484390258789,
+    "totalTraffic": 1206.0101623535156
+  },
+  {
+    "airlineCode": "ZA",
+    "totalDemand": 984.9425287973136,
+    "totalTraffic": 920.6293319929391
+  },
+  {
+    "airlineCode": "4Y",
+    "totalDemand": 581.3488653600216,
+    "totalTraffic": 597.7502419650555
+  },
+  {
+    "airlineCode": "AI",
+    "totalDemand": 228575.6661143803,
+    "totalTraffic": 234911.10653733992
+  },
+  { "airlineCode": "K7", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "SX",
+    "totalDemand": 194.71463353699073,
+    "totalTraffic": 195.01055863918737
+  },
+  {
+    "airlineCode": "V9",
+    "totalDemand": 630.0,
+    "totalTraffic": 162.96004486083984
+  },
+  {
+    "airlineCode": "WB",
+    "totalDemand": 2033.3814971167594,
+    "totalTraffic": 2470.867255221121
+  },
+  {
+    "airlineCode": "B7",
+    "totalDemand": 10843.275226593018,
+    "totalTraffic": 11612.287689685822
+  },
+  {
+    "airlineCode": "DY",
+    "totalDemand": 140146.19686142053,
+    "totalTraffic": 130618.2293248144
+  },
+  {
+    "airlineCode": "QZ",
+    "totalDemand": 26067.5052785124,
+    "totalTraffic": 26645.167923156347
+  },
+  {
+    "airlineCode": "T5",
+    "totalDemand": 5377.482862789184,
+    "totalTraffic": 5161.729153703898
+  },
+  {
+    "airlineCode": "YO",
+    "totalDemand": 1.5612939596176147,
+    "totalTraffic": 1.4522893279790878
+  },
+  {
+    "airlineCode": "9C",
+    "totalDemand": 93283.26306692348,
+    "totalTraffic": 95606.1237808828
+  },
+  {
+    "airlineCode": "KB",
+    "totalDemand": 1037.432805210352,
+    "totalTraffic": 974.3144910335541
+  },
+  {
+    "airlineCode": "SF",
+    "totalDemand": 1402.4772890806198,
+    "totalTraffic": 1437.2828691005707
+  },
+  { "airlineCode": "Y6", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "KC",
+    "totalDemand": 14341.671057332307,
+    "totalTraffic": 15087.529622334987
+  },
+  { "airlineCode": "J3", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "7M",
+    "totalDemand": 0.022544863517396152,
+    "totalTraffic": 0.02194233366753906
+  },
+  {
+    "airlineCode": "8I",
+    "totalDemand": 1977.2415138483047,
+    "totalTraffic": 1534.2624193429947
+  },
+  {
+    "airlineCode": "TZ",
+    "totalDemand": 33907.1826621294,
+    "totalTraffic": 35408.06341844797
+  },
+  {
+    "airlineCode": "7F",
+    "totalDemand": 0.9528472423553467,
+    "totalTraffic": 1.007809042930603
+  },
+  {
+    "airlineCode": "8M",
+    "totalDemand": 3800.200752425939,
+    "totalTraffic": 3794.369193278253
+  },
+  {
+    "airlineCode": "RS",
+    "totalDemand": 6184.743592341896,
+    "totalTraffic": 5972.1359495179495
+  },
+  {
+    "airlineCode": "ZH",
+    "totalDemand": 58274.41664971376,
+    "totalTraffic": 55719.87456366629
+  },
+  {
+    "airlineCode": "5Z",
+    "totalDemand": 3.536283168941736,
+    "totalTraffic": 3.4080569809302688
+  },
+  {
+    "airlineCode": "LH",
+    "totalDemand": 967868.3670350115,
+    "totalTraffic": 963824.8842218868
+  },
+  {
+    "airlineCode": "TS",
+    "totalDemand": 43888.39450653666,
+    "totalTraffic": 57514.7847302272
+  },
+  {
+    "airlineCode": "EK",
+    "totalDemand": 1038305.691121765,
+    "totalTraffic": 1021771.3744881228
+  },
+  {
+    "airlineCode": "MS",
+    "totalDemand": 125492.41462279437,
+    "totalTraffic": 128222.92721347732
+  },
+  {
+    "airlineCode": "J5",
+    "totalDemand": 877.5957338809967,
+    "totalTraffic": 856.0312533378601
+  },
+  {
+    "airlineCode": "PN",
+    "totalDemand": 8409.19570691348,
+    "totalTraffic": 8808.594922764227
+  },
+  {
+    "airlineCode": "B3",
+    "totalDemand": 601.2344284057617,
+    "totalTraffic": 583.3887405395508
+  },
+  { "airlineCode": "M0", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "E5",
+    "totalDemand": 3319.2815589904785,
+    "totalTraffic": 3390.66934967041
+  },
+  {
+    "airlineCode": "IN",
+    "totalDemand": 0.9892646817024797,
+    "totalTraffic": 1.1404160297242925
+  },
+  {
+    "airlineCode": "3E",
+    "totalDemand": 969.0602955818176,
+    "totalTraffic": 957.1509881019592
+  },
+  {
+    "airlineCode": "LC",
+    "totalDemand": 1264.0398057932034,
+    "totalTraffic": 1417.0759251518175
+  },
+  {
+    "airlineCode": "WG",
+    "totalDemand": 38660.402935922146,
+    "totalTraffic": 45943.67334909737
+  },
+  {
+    "airlineCode": "X3",
+    "totalDemand": 5671.582862854004,
+    "totalTraffic": 5877.249473571777
+  },
+  {
+    "airlineCode": "BK",
+    "totalDemand": 10720.774276087759,
+    "totalTraffic": 8767.978341776063
+  },
+  {
+    "airlineCode": "8J",
+    "totalDemand": 2.3611924052238464,
+    "totalTraffic": 2.1837058067321777
+  },
+  {
+    "airlineCode": "4M",
+    "totalDemand": 4380.521542130038,
+    "totalTraffic": 4333.154967758805
+  },
+  {
+    "airlineCode": "AE",
+    "totalDemand": 17514.78866170533,
+    "totalTraffic": 17661.879336562473
+  },
+  {
+    "airlineCode": "G9",
+    "totalDemand": 54001.023929762654,
+    "totalTraffic": 63096.48199991975
+  },
+  {
+    "airlineCode": "VH",
+    "totalDemand": 93.02183135529049,
+    "totalTraffic": 52.08785295835696
+  },
+  {
+    "airlineCode": "CM",
+    "totalDemand": 210182.99887974755,
+    "totalTraffic": 210580.19624146202
+  },
+  {
+    "airlineCode": "MJ",
+    "totalDemand": 8964.140009702649,
+    "totalTraffic": 9590.284844901238
+  },
+  {
+    "airlineCode": "QS",
+    "totalDemand": 6979.199076510966,
+    "totalTraffic": 6923.86015791446
+  },
+  {
+    "airlineCode": "TG",
+    "totalDemand": 335735.36811414734,
+    "totalTraffic": 339058.18697453476
+  },
+  {
+    "airlineCode": "FR",
+    "totalDemand": 274914.3994173568,
+    "totalTraffic": 290259.1908999828
+  },
+  {
+    "airlineCode": "P0",
+    "totalDemand": 2.1946917697787285,
+    "totalTraffic": 1.885499382391572
+  },
+  { "airlineCode": "JV", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "GF",
+    "totalDemand": 76631.55592623679,
+    "totalTraffic": 83815.52967045642
+  },
+  {
+    "airlineCode": "KQ",
+    "totalDemand": 40506.91249976959,
+    "totalTraffic": 41180.24164891988
+  },
+  {
+    "airlineCode": "CC",
+    "totalDemand": 1429.21284866333,
+    "totalTraffic": 1117.777193069458
+  },
+  {
+    "airlineCode": "IX",
+    "totalDemand": 27951.244263957255,
+    "totalTraffic": 33416.155067162355
+  },
+  {
+    "airlineCode": "G3",
+    "totalDemand": 25163.6626698169,
+    "totalTraffic": 22931.3633396652
+  },
+  {
+    "airlineCode": "TN",
+    "totalDemand": 4668.678315064171,
+    "totalTraffic": 5069.32540659979
+  },
+  {
+    "airlineCode": "2P",
+    "totalDemand": 0.002613524382468313,
+    "totalTraffic": 0.0020095818326808512
+  },
+  { "airlineCode": "GQ", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "IA",
+    "totalDemand": 7363.04539802135,
+    "totalTraffic": 7697.3492026391905
+  },
+  {
+    "airlineCode": "NU",
+    "totalDemand": 59.872730548959225,
+    "totalTraffic": 65.40632938663475
+  },
+  {
+    "airlineCode": "PX",
+    "totalDemand": 2939.1726063471287,
+    "totalTraffic": 3529.194091213867
+  },
+  {
+    "airlineCode": "UH",
+    "totalDemand": 1.454043135046959,
+    "totalTraffic": 1.4814359173178673
+  },
+  {
+    "airlineCode": "9I",
+    "totalDemand": 7.243075238540769,
+    "totalTraffic": 8.62401196314022
+  },
+  {
+    "airlineCode": "NN",
+    "totalDemand": 2751.1184066563146,
+    "totalTraffic": 2812.1557780111907
+  },
+  {
+    "airlineCode": "OB",
+    "totalDemand": 4221.396070204675,
+    "totalTraffic": 4578.258246942423
+  },
+  { "airlineCode": "TL", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "WF",
+    "totalDemand": 2787.562490593409,
+    "totalTraffic": 2867.119594653719
+  },
+  {
+    "airlineCode": "ZI",
+    "totalDemand": 4927.878047877515,
+    "totalTraffic": 5203.969706755946
+  },
+  {
+    "airlineCode": "LJ",
+    "totalDemand": 33041.035328755504,
+    "totalTraffic": 32895.82436123956
+  },
+  {
+    "airlineCode": "WX",
+    "totalDemand": 8938.878204203269,
+    "totalTraffic": 9059.420229863259
+  },
+  {
+    "airlineCode": "XJ",
+    "totalDemand": 228.83119010925293,
+    "totalTraffic": 231.40837877988815
+  },
+  {
+    "airlineCode": "Y4",
+    "totalDemand": 59119.30868420488,
+    "totalTraffic": 65154.55240547823
+  },
+  {
+    "airlineCode": "R5",
+    "totalDemand": 686.1890506744385,
+    "totalTraffic": 695.4283504486084
+  },
+  {
+    "airlineCode": "V6",
+    "totalDemand": 53.02065086364746,
+    "totalTraffic": 49.30922842025757
+  },
+  {
+    "airlineCode": "VS",
+    "totalDemand": 44244.10589593435,
+    "totalTraffic": 52130.41145684617
+  },
+  {
+    "airlineCode": "W5",
+    "totalDemand": 20276.56765317428,
+    "totalTraffic": 22298.284649284324
+  },
+  { "airlineCode": "GR", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "UP",
+    "totalDemand": 7939.68338130042,
+    "totalTraffic": 8288.583614987321
+  },
+  {
+    "airlineCode": "OY",
+    "totalDemand": 0.07579435780644417,
+    "totalTraffic": 0.06450594495981932
+  },
+  {
+    "airlineCode": "J4",
+    "totalDemand": 9417.782730102539,
+    "totalTraffic": 6512.258560180664
+  },
+  {
+    "airlineCode": "PA",
+    "totalDemand": 18538.218853523023,
+    "totalTraffic": 21745.86604249198
+  },
+  {
+    "airlineCode": "TD",
+    "totalDemand": 14.905720591545105,
+    "totalTraffic": 14.83511769771576
+  },
+  {
+    "airlineCode": "U8",
+    "totalDemand": 33.351531673863064,
+    "totalTraffic": 35.34024859848432
+  },
+  {
+    "airlineCode": "AG",
+    "totalDemand": 4594.381246879697,
+    "totalTraffic": 4028.879024863243
+  },
+  {
+    "airlineCode": "UX",
+    "totalDemand": 82062.93598916894,
+    "totalTraffic": 87409.67972883163
+  },
+  {
+    "airlineCode": "EY",
+    "totalDemand": 396675.77802893403,
+    "totalTraffic": 342644.1097957543
+  },
+  {
+    "airlineCode": "8E",
+    "totalDemand": 1136.413255032152,
+    "totalTraffic": 1106.476906850934
+  },
+  {
+    "airlineCode": "9U",
+    "totalDemand": 915.4745154967532,
+    "totalTraffic": 1140.6003284053877
+  },
+  {
+    "airlineCode": "DG",
+    "totalDemand": 12.801280220970511,
+    "totalTraffic": 11.858525780960917
+  },
+  {
+    "airlineCode": "HA",
+    "totalDemand": 196688.97434009425,
+    "totalTraffic": 197345.12368658232
+  },
+  { "airlineCode": "HS", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "L6",
+    "totalDemand": 604.006049759686,
+    "totalTraffic": 605.769051168114
+  },
+  {
+    "airlineCode": "BA",
+    "totalDemand": 682909.7986745549,
+    "totalTraffic": 692588.0278264077
+  },
+  {
+    "airlineCode": "FE",
+    "totalDemand": 2088.610767364502,
+    "totalTraffic": 1959.5348777770996
+  },
+  {
+    "airlineCode": "M5",
+    "totalDemand": 461.55998945236206,
+    "totalTraffic": 368.5300135612488
+  },
+  {
+    "airlineCode": "ET",
+    "totalDemand": 101175.55179929826,
+    "totalTraffic": 103545.86813446577
+  },
+  {
+    "airlineCode": "6R",
+    "totalDemand": 169.21767066977918,
+    "totalTraffic": 171.1839371835813
+  },
+  {
+    "airlineCode": "JL",
+    "totalDemand": 258968.22552610614,
+    "totalTraffic": 255666.9844943723
+  },
+  {
+    "airlineCode": "SG",
+    "totalDemand": 83081.91403365275,
+    "totalTraffic": 87921.7439714633
+  },
+  {
+    "airlineCode": "EI",
+    "totalDemand": 116504.65548431735,
+    "totalTraffic": 122263.06552011923
+  },
+  {
+    "airlineCode": "HD",
+    "totalDemand": 39.500287933973595,
+    "totalTraffic": 42.297073399997316
+  },
+  {
+    "airlineCode": "KP",
+    "totalDemand": 4151.236388672842,
+    "totalTraffic": 4270.943676030001
+  },
+  {
+    "airlineCode": "JT",
+    "totalDemand": 37143.37991655269,
+    "totalTraffic": 37994.68908737262
+  },
+  {
+    "airlineCode": "2N",
+    "totalDemand": 0.009617090225219727,
+    "totalTraffic": 0.011295250616967678
+  },
+  {
+    "airlineCode": "CU",
+    "totalDemand": 2781.408816311916,
+    "totalTraffic": 2717.0123403373873
+  },
+  {
+    "airlineCode": "9X",
+    "totalDemand": 402.84042194485664,
+    "totalTraffic": 367.5533703863621
+  },
+  {
+    "airlineCode": "SE",
+    "totalDemand": 7538.743905335665,
+    "totalTraffic": 10917.00764542818
+  },
+  {
+    "airlineCode": "BG",
+    "totalDemand": 27888.422842025757,
+    "totalTraffic": 31516.15136909485
+  },
+  {
+    "airlineCode": "FJ",
+    "totalDemand": 4818.542390125804,
+    "totalTraffic": 4873.924271917902
+  },
+  {
+    "airlineCode": "WS",
+    "totalDemand": 276249.4500451619,
+    "totalTraffic": 267679.8379854139
+  },
+  {
+    "airlineCode": "KU",
+    "totalDemand": 51997.61317884922,
+    "totalTraffic": 56545.19472968578
+  },
+  {
+    "airlineCode": "NY",
+    "totalDemand": 5.37249881029129,
+    "totalTraffic": 6.023398816585541
+  },
+  {
+    "airlineCode": "2O",
+    "totalDemand": 51.81999871134758,
+    "totalTraffic": 51.81999871134758
+  },
+  {
+    "airlineCode": "EW",
+    "totalDemand": 53949.623154144036,
+    "totalTraffic": 54470.14580369019
+  },
+  {
+    "airlineCode": "GE",
+    "totalDemand": 18628.18384307949,
+    "totalTraffic": 18499.86535913078
+  },
+  {
+    "airlineCode": "VW",
+    "totalDemand": 227.7966122572543,
+    "totalTraffic": 256.775599339162
+  },
+  { "airlineCode": "ON", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "SK",
+    "totalDemand": 305961.83627066354,
+    "totalTraffic": 297882.0255158291
+  },
+  {
+    "airlineCode": "AB",
+    "totalDemand": 243432.18825365105,
+    "totalTraffic": 245676.11230286874
+  },
+  {
+    "airlineCode": "B5",
+    "totalDemand": 3.7355957394465804,
+    "totalTraffic": 5.919092968804762
+  },
+  { "airlineCode": "E3", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "J9",
+    "totalDemand": 13942.189578562975,
+    "totalTraffic": 14318.537161976099
+  },
+  {
+    "airlineCode": "P1",
+    "totalDemand": 717.4572625160217,
+    "totalTraffic": 717.8309240341187
+  },
+  {
+    "airlineCode": "QV",
+    "totalDemand": 618.2510331748053,
+    "totalTraffic": 873.6894578225911
+  },
+  {
+    "airlineCode": "FM",
+    "totalDemand": 120733.01155408239,
+    "totalTraffic": 110578.58699526184
+  },
+  {
+    "airlineCode": "LO",
+    "totalDemand": 62891.394620975014,
+    "totalTraffic": 64312.447682260536
+  },
+  {
+    "airlineCode": "MH",
+    "totalDemand": 139951.691471268,
+    "totalTraffic": 140530.74945211844
+  },
+  {
+    "airlineCode": "WJ",
+    "totalDemand": 1.8575493693351746,
+    "totalTraffic": 1.8845779299736023
+  },
+  {
+    "airlineCode": "LV",
+    "totalDemand": 5590.883755043149,
+    "totalTraffic": 6375.806436389685
+  },
+  {
+    "airlineCode": "MU",
+    "totalDemand": 642841.3977306503,
+    "totalTraffic": 608245.2161955123
+  },
+  {
+    "airlineCode": "OS",
+    "totalDemand": 154216.79418469046,
+    "totalTraffic": 142564.5048845528
+  },
+  {
+    "airlineCode": "HQ",
+    "totalDemand": 142.16444627009332,
+    "totalTraffic": 144.2675963244401
+  },
+  {
+    "airlineCode": "LS",
+    "totalDemand": 17831.98289859295,
+    "totalTraffic": 18544.958052396774
+  },
+  { "airlineCode": "6W", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "9B",
+    "totalDemand": 20167.137560219795,
+    "totalTraffic": 20018.630210396805
+  },
+  {
+    "airlineCode": "LG",
+    "totalDemand": 14042.530505085364,
+    "totalTraffic": 15080.99917921424
+  },
+  {
+    "airlineCode": "4U",
+    "totalDemand": 88636.6164383135,
+    "totalTraffic": 90982.83409311347
+  },
+  {
+    "airlineCode": "KM",
+    "totalDemand": 7195.473148563877,
+    "totalTraffic": 7499.564841428772
+  },
+  {
+    "airlineCode": "DT",
+    "totalDemand": 11999.515966206789,
+    "totalTraffic": 13820.488203525543
+  },
+  {
+    "airlineCode": "FN",
+    "totalDemand": 1946.7495769984089,
+    "totalTraffic": 1357.4905073805712
+  },
+  {
+    "airlineCode": "JU",
+    "totalDemand": 20905.503035035683,
+    "totalTraffic": 22412.060397302383
+  },
+  {
+    "airlineCode": "XK",
+    "totalDemand": 2404.726226197323,
+    "totalTraffic": 2451.8570689637563
+  },
+  {
+    "airlineCode": "YQ",
+    "totalDemand": 0.23491881520021707,
+    "totalTraffic": 0.23391933366656303
+  },
+  {
+    "airlineCode": "2J",
+    "totalDemand": 1315.2841469821287,
+    "totalTraffic": 1168.1816791298334
+  },
+  {
+    "airlineCode": "BI",
+    "totalDemand": 9804.16158439964,
+    "totalTraffic": 11327.288869403303
+  },
+  {
+    "airlineCode": "G4",
+    "totalDemand": 128029.04614710808,
+    "totalTraffic": 129850.32774424553
+  },
+  {
+    "airlineCode": "YK",
+    "totalDemand": 0.263795614708215,
+    "totalTraffic": 0.27196617564186454
+  },
+  {
+    "airlineCode": "MF",
+    "totalDemand": 129122.73940033859,
+    "totalTraffic": 124826.44218943821
+  },
+  {
+    "airlineCode": "5H",
+    "totalDemand": 5.8580704145133495,
+    "totalTraffic": 37.978674033656716
+  },
+  {
+    "airlineCode": "OJ",
+    "totalDemand": 1550.0362854003906,
+    "totalTraffic": 1619.2289123535156
+  },
+  {
+    "airlineCode": "FP",
+    "totalDemand": 2.879555195569992,
+    "totalTraffic": 3.4267916828393936
+  },
+  {
+    "airlineCode": "HF",
+    "totalDemand": 6152.742198549211,
+    "totalTraffic": 6092.781971507706
+  },
+  {
+    "airlineCode": "CE",
+    "totalDemand": 719.2860336303711,
+    "totalTraffic": 715.3449864387512
+  },
+  {
+    "airlineCode": "JP",
+    "totalDemand": 6173.720363696106,
+    "totalTraffic": 6466.14741616603
+  },
+  {
+    "airlineCode": "KA",
+    "totalDemand": 160760.8308286667,
+    "totalTraffic": 151723.10933303833
+  },
+  {
+    "airlineCode": "TM",
+    "totalDemand": 209.82195675000548,
+    "totalTraffic": 211.59265273436904
+  },
+  {
+    "airlineCode": "5J",
+    "totalDemand": 66743.66947080055,
+    "totalTraffic": 71864.63827233505
+  },
+  {
+    "airlineCode": "M3",
+    "totalDemand": 18.591099739074707,
+    "totalTraffic": 18.662933349609375
+  },
+  {
+    "airlineCode": "9R",
+    "totalDemand": 0.7245278675109148,
+    "totalTraffic": 2.2977096885442734
+  },
+  {
+    "airlineCode": "C8",
+    "totalDemand": 231.8367539793253,
+    "totalTraffic": 233.96173966117203
+  },
+  {
+    "airlineCode": "YC",
+    "totalDemand": 0.14076731679961085,
+    "totalTraffic": 0.14952098904177547
+  },
+  {
+    "airlineCode": "Z2",
+    "totalDemand": 10959.031455386896,
+    "totalTraffic": 11119.658799077384
+  },
+  {
+    "airlineCode": "ZB",
+    "totalDemand": 19686.35645723343,
+    "totalTraffic": 20133.989468097687
+  },
+  {
+    "airlineCode": "SN",
+    "totalDemand": 122545.73539432697,
+    "totalTraffic": 122973.44796135579
+  },
+  {
+    "airlineCode": "TX",
+    "totalDemand": 3489.638237896841,
+    "totalTraffic": 4324.515143995115
+  },
+  {
+    "airlineCode": "Y8",
+    "totalDemand": 5558.683540344238,
+    "totalTraffic": 5264.105712890625
+  },
+  {
+    "airlineCode": "NZ",
+    "totalDemand": 48881.62653813546,
+    "totalTraffic": 50697.70932470012
+  },
+  { "airlineCode": "PJ", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "OM",
+    "totalDemand": 3722.8935230970383,
+    "totalTraffic": 3746.0932052731514
+  },
+  {
+    "airlineCode": "UJ",
+    "totalDemand": 3212.5770794153214,
+    "totalTraffic": 3319.670804162044
+  },
+  {
+    "airlineCode": "ZL",
+    "totalDemand": 1.7746219667897094,
+    "totalTraffic": 1.7548656180442777
+  },
+  {
+    "airlineCode": "BT",
+    "totalDemand": 19153.30681459233,
+    "totalTraffic": 19886.34286871925
+  },
+  {
+    "airlineCode": "UU",
+    "totalDemand": 9612.432430826128,
+    "totalTraffic": 10456.052462302148
+  },
+  {
+    "airlineCode": "FA",
+    "totalDemand": 10780.091965868603,
+    "totalTraffic": 11249.491574210115
+  },
+  {
+    "airlineCode": "HU",
+    "totalDemand": 85101.65198398428,
+    "totalTraffic": 89169.69081012323
+  },
+  {
+    "airlineCode": "KN",
+    "totalDemand": 2532.115447998047,
+    "totalTraffic": 2532.115447998047
+  },
+  {
+    "airlineCode": "QR",
+    "totalDemand": 556404.2132930346,
+    "totalTraffic": 530140.6046421318
+  },
+  {
+    "airlineCode": "YM",
+    "totalDemand": 1590.790743397316,
+    "totalTraffic": 1453.2411816430977
+  },
+  {
+    "airlineCode": "3H",
+    "totalDemand": 15.185669452883303,
+    "totalTraffic": 15.710809516254812
+  },
+  {
+    "airlineCode": "B0",
+    "totalDemand": 805.1153964996338,
+    "totalTraffic": 857.9032306671143
+  },
+  {
+    "airlineCode": "KE",
+    "totalDemand": 341001.472238911,
+    "totalTraffic": 333100.16691148333
+  },
+  {
+    "airlineCode": "O6",
+    "totalDemand": 6916.7911012920085,
+    "totalTraffic": 7081.904393039877
+  },
+  {
+    "airlineCode": "OZ",
+    "totalDemand": 197394.92809579388,
+    "totalTraffic": 207175.04892296705
+  },
+  {
+    "airlineCode": "A5",
+    "totalDemand": 54884.00335534448,
+    "totalTraffic": 47808.73786821241
+  },
+  {
+    "airlineCode": "IG",
+    "totalDemand": 7597.331700915471,
+    "totalTraffic": 7514.243807208433
+  },
+  {
+    "airlineCode": "S2",
+    "totalDemand": 18412.471823022235,
+    "totalTraffic": 16901.069462867454
+  },
+  {
+    "airlineCode": "7J",
+    "totalDemand": 348.2132617160678,
+    "totalTraffic": 282.7594733014703
+  },
+  {
+    "airlineCode": "JW",
+    "totalDemand": 16758.420260732062,
+    "totalTraffic": 18451.48457499221
+  },
+  {
+    "airlineCode": "8W",
+    "totalDemand": 103.62465150654316,
+    "totalTraffic": 120.17929288744926
+  },
+  {
+    "airlineCode": "BV",
+    "totalDemand": 1908.2021910529584,
+    "totalTraffic": 2134.502770462539
+  },
+  {
+    "airlineCode": "9J",
+    "totalDemand": 11501.326070845127,
+    "totalTraffic": 9373.8298882097
+  },
+  {
+    "airlineCode": "UG",
+    "totalDemand": 277.94505342375487,
+    "totalTraffic": 250.97583158616908
+  },
+  {
+    "airlineCode": "4D",
+    "totalDemand": 9.747196167707443,
+    "totalTraffic": 11.208984315395355
+  },
+  {
+    "airlineCode": "AH",
+    "totalDemand": 35974.02763932891,
+    "totalTraffic": 36885.26840652188
+  },
+  {
+    "airlineCode": "W3",
+    "totalDemand": 28803.773992745206,
+    "totalTraffic": 19225.23238245584
+  },
+  {
+    "airlineCode": "4Q",
+    "totalDemand": 2021.0283966064453,
+    "totalTraffic": 2102.545425415039
+  },
+  {
+    "airlineCode": "9N",
+    "totalDemand": 1.5954902060329914,
+    "totalTraffic": 17.97546953917481
+  },
+  { "airlineCode": "IE", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "GS",
+    "totalDemand": 2418.4731145817786,
+    "totalTraffic": 2415.011978453025
+  },
+  {
+    "airlineCode": "2I",
+    "totalDemand": 15.263803501264192,
+    "totalTraffic": 15.507863336009905
+  },
+  {
+    "airlineCode": "EL",
+    "totalDemand": 1697.845946705318,
+    "totalTraffic": 1700.6156298849965
+  },
+  {
+    "airlineCode": "GA",
+    "totalDemand": 121150.1049007373,
+    "totalTraffic": 123142.21609396033
+  },
+  {
+    "airlineCode": "RJ",
+    "totalDemand": 48772.995918003144,
+    "totalTraffic": 52179.18285991275
+  },
+  {
+    "airlineCode": "V8",
+    "totalDemand": 77.00000286102295,
+    "totalTraffic": 77.00000286102295
+  },
+  {
+    "airlineCode": "G8",
+    "totalDemand": 35927.93407802726,
+    "totalTraffic": 37578.72979361727
+  },
+  {
+    "airlineCode": "Y7",
+    "totalDemand": 6.282258845400065,
+    "totalTraffic": 6.30480008944869
+  },
+  {
+    "airlineCode": "AS",
+    "totalDemand": 501433.3316083646,
+    "totalTraffic": 522564.99992912135
+  },
+  {
+    "airlineCode": "BE",
+    "totalDemand": 49556.717647294194,
+    "totalTraffic": 51724.578386254696
+  },
+  {
+    "airlineCode": "3R",
+    "totalDemand": 191.28584480285645,
+    "totalTraffic": 204.42473030090332
+  },
+  {
+    "airlineCode": "WZ",
+    "totalDemand": 1.6156930290162563,
+    "totalTraffic": 1.616679359227419
+  },
+  {
+    "airlineCode": "AC",
+    "totalDemand": 574544.8080666721,
+    "totalTraffic": 563499.8143225168
+  },
+  {
+    "airlineCode": "QQ",
+    "totalDemand": 8287.366958498955,
+    "totalTraffic": 8815.279195070267
+  },
+  {
+    "airlineCode": "KS",
+    "totalDemand": 2324.241353392601,
+    "totalTraffic": 2065.1531635522842
+  },
+  {
+    "airlineCode": "HZ",
+    "totalDemand": 18.317934036254883,
+    "totalTraffic": 16.23103404045105
+  },
+  {
+    "airlineCode": "8L",
+    "totalDemand": 5048.8198985113995,
+    "totalTraffic": 4948.778192242025
+  },
+  {
+    "airlineCode": "QW",
+    "totalDemand": 4473.469139321474,
+    "totalTraffic": 4073.5727434676373
+  },
+  {
+    "airlineCode": "TT",
+    "totalDemand": 26145.698622429045,
+    "totalTraffic": 28879.71692870336
+  },
+  {
+    "airlineCode": "YZ",
+    "totalDemand": 1.1210229322314262,
+    "totalTraffic": 1.2331593986600637
+  },
+  { "airlineCode": "5T", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "6J",
+    "totalDemand": 7.125355320749804,
+    "totalTraffic": 7.446028376929462
+  },
+  {
+    "airlineCode": "SY",
+    "totalDemand": 31435.506299972534,
+    "totalTraffic": 36039.64126968384
+  },
+  {
+    "airlineCode": "HX",
+    "totalDemand": 88235.04695996182,
+    "totalTraffic": 90663.27736414864
+  },
+  {
+    "airlineCode": "JQ",
+    "totalDemand": 75323.71698272857,
+    "totalTraffic": 73729.19370086631
+  },
+  { "airlineCode": "P6", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "6E",
+    "totalDemand": 292703.58522331447,
+    "totalTraffic": 299807.28646263556
+  },
+  {
+    "airlineCode": "3J",
+    "totalDemand": 1205.282712727785,
+    "totalTraffic": 1209.8430969640613
+  },
+  {
+    "airlineCode": "8U",
+    "totalDemand": 0.5400000214576721,
+    "totalTraffic": 0.5400000214576721
+  },
+  {
+    "airlineCode": "IZ",
+    "totalDemand": 1434.9282960435376,
+    "totalTraffic": 1641.6927960135508
+  },
+  {
+    "airlineCode": "SS",
+    "totalDemand": 11906.595750869019,
+    "totalTraffic": 14628.0641597223
+  },
+  {
+    "airlineCode": "WM",
+    "totalDemand": 42.88148699514568,
+    "totalTraffic": 48.70862004254013
+  },
+  {
+    "airlineCode": "5C",
+    "totalDemand": 1.747006231918931,
+    "totalTraffic": 2.5486942855641246
+  },
+  {
+    "airlineCode": "7I",
+    "totalDemand": 8683.39643206168,
+    "totalTraffic": 8214.316897201119
+  },
+  {
+    "airlineCode": "AK",
+    "totalDemand": 73471.79046797391,
+    "totalTraffic": 77684.37961476087
+  },
+  {
+    "airlineCode": "P9",
+    "totalDemand": 459.26811068411916,
+    "totalTraffic": 486.37048206990585
+  },
+  {
+    "airlineCode": "FD",
+    "totalDemand": 18759.10897941995,
+    "totalTraffic": 17344.01573215655
+  },
+  {
+    "airlineCode": "TF",
+    "totalDemand": 37.31888223387068,
+    "totalTraffic": 37.28724003766547
+  },
+  {
+    "airlineCode": "9M",
+    "totalDemand": 3.275662038475275,
+    "totalTraffic": 3.2847173884510994
+  },
+  {
+    "airlineCode": "JE",
+    "totalDemand": 15984.057803320698,
+    "totalTraffic": 16462.73952520592
+  },
+  {
+    "airlineCode": "QG",
+    "totalDemand": 7115.942269145395,
+    "totalTraffic": 7301.7898355505895
+  },
+  {
+    "airlineCode": "9V",
+    "totalDemand": 3706.9193032719195,
+    "totalTraffic": 4558.5898678302765
+  },
+  {
+    "airlineCode": "AR",
+    "totalDemand": 25943.93497254612,
+    "totalTraffic": 26908.93260700046
+  },
+  {
+    "airlineCode": "EU",
+    "totalDemand": 7704.405029509333,
+    "totalTraffic": 7625.572586865863
+  },
+  {
+    "airlineCode": "PW",
+    "totalDemand": 366.68247583747143,
+    "totalTraffic": 392.33026863925625
+  },
+  {
+    "airlineCode": "VX",
+    "totalDemand": 105799.51152038574,
+    "totalTraffic": 114323.58542633057
+  },
+  {
+    "airlineCode": "HG",
+    "totalDemand": 1280.2251639054157,
+    "totalTraffic": 1296.307156083174
+  },
+  {
+    "airlineCode": "OK",
+    "totalDemand": 22994.010310466867,
+    "totalTraffic": 24315.296296774177
+  },
+  {
+    "airlineCode": "PR",
+    "totalDemand": 132421.5879223924,
+    "totalTraffic": 142409.69082036987
+  },
+  {
+    "airlineCode": "TK",
+    "totalDemand": 524382.9111855957,
+    "totalTraffic": 502078.28002733376
+  },
+  {
+    "airlineCode": "NF",
+    "totalDemand": 0.9400907028466463,
+    "totalTraffic": 0.7801692222710699
+  },
+  {
+    "airlineCode": "OQ",
+    "totalDemand": 18453.68776092725,
+    "totalTraffic": 19129.957190177636
+  },
+  {
+    "airlineCode": "SZ",
+    "totalDemand": 1307.1962511534803,
+    "totalTraffic": 1274.0279878010042
+  },
+  {
+    "airlineCode": "A3",
+    "totalDemand": 54918.42430969607,
+    "totalTraffic": 57097.64348247275
+  },
+  {
+    "airlineCode": "G5",
+    "totalDemand": 0.6375011835480109,
+    "totalTraffic": 0.6614245278760791
+  },
+  {
+    "airlineCode": "HM",
+    "totalDemand": 4406.817294869572,
+    "totalTraffic": 4876.474905651063
+  },
+  {
+    "airlineCode": "TA",
+    "totalDemand": 1949.6262183994986,
+    "totalTraffic": 2368.2031359402463
+  },
+  {
+    "airlineCode": "VN",
+    "totalDemand": 119268.0583994342,
+    "totalTraffic": 113552.05641913787
+  },
+  {
+    "airlineCode": "KO",
+    "totalDemand": 0.17249707877635956,
+    "totalTraffic": 0.17249707877635956
+  },
+  { "airlineCode": "8F", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  { "airlineCode": "IS", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  { "airlineCode": "WK", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "3S",
+    "totalDemand": 110.35169350262731,
+    "totalTraffic": 121.31555772852153
+  },
+  {
+    "airlineCode": "AF",
+    "totalDemand": 833080.8768324407,
+    "totalTraffic": 677868.4457819134
+  },
+  {
+    "airlineCode": "SQ",
+    "totalDemand": 402023.8118042531,
+    "totalTraffic": 387156.6599740198
+  },
+  { "airlineCode": "9H", "totalDemand": 0.0, "totalTraffic": 0.0 },
+  {
+    "airlineCode": "BB",
+    "totalDemand": 631.7201923133689,
+    "totalTraffic": 1008.6486292267218
+  },
+  {
+    "airlineCode": "CQ",
+    "totalDemand": 0.2800009362399578,
+    "totalTraffic": 0.2708573881536722
+  }
+]

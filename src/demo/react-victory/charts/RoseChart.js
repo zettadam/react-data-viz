@@ -10,7 +10,7 @@ import {
 
 import VictoryTheme from './themes'
 
-import { adaptData, getLegendData } from './utils'
+import { adaptData } from './utils'
 
 export default class RoseChart extends Component {
 
@@ -35,9 +35,6 @@ export default class RoseChart extends Component {
   render () {
     const {
       data,
-      domain,
-      stacked,
-      style,
       theme,
       xField,
       yFields
@@ -54,7 +51,7 @@ export default class RoseChart extends Component {
         <VictoryPolarAxis dependentAxis />
         <VictoryPolarAxis tickCount={ 8 } />
         <VictoryStack>
-          { this.renderBars(adaptData) }
+          { this.renderBars(adaptedData) }
         </VictoryStack>
       </VictoryChart>
     )

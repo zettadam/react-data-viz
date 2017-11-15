@@ -2,7 +2,7 @@ import React from 'react'
 
 import { AreaChart } from 'demo/react-recharts/charts'
 
-import { ORDINAL_DATA } from 'fakeData'
+import { ORDINAL_DATA } from 'fixtures/fakeData'
 import {  COLORS } from 'themes/colors'
 
 export default (props) =>

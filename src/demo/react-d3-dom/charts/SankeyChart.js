@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
-import PropTypes from 'prop-types'
 import * as d3 from 'd3'
 import { sankey, sankeyLinkHorizontal } from 'd3-sankey'
-import { isEqual } from 'lodash'
+//import { isEqual } from 'lodash'
 
 
 export default class SankeyChart extends Component {
@@ -119,7 +118,6 @@ export default class SankeyChart extends Component {
     const {
       children,
       height,
-      margin,
       width
     } = this.props
 

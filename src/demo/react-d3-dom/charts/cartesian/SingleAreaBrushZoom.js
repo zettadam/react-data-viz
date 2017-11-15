@@ -2,13 +2,7 @@ import React, { Component } from 'react'
 import * as d3 from 'd3'
 import { isEqual } from 'lodash'
 
-import {
-  MONOCHROMATIC_COLORS,
-  CUSTOM_COLORS
-} from '../colors'
 import { CURVE_MAP } from '../../common'
-
-const COLOR_SCHEME = MONOCHROMATIC_COLORS['theme3']
 
 
 export default class SingleAreaBrushZoom extends Component {
@@ -105,7 +99,7 @@ export default class SingleAreaBrushZoom extends Component {
     this.height = height - margin1.top - margin1.bottom
     this.height2 = height - margin2.top - margin2.bottom
 
-    const g = this.svg.append('g')
+    this.svg.append('g')
       .attr('transform', 'translate(' + margin1.left + ',' + margin2.top + ')')
 
     this.xScale = d3.scaleTime().range([0, this.width])

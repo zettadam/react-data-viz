@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 import { DemoHeader, ChartPanel } from './common'
 import { ScatterChart } from './charts'
-import { ORDINAL_DATA, TIME_SERIES } from 'fakeData'
+import { ORDINAL_DATA } from 'fixtures/fakeData'
 
 export default class ScatterPlotsDemo extends Component {
 

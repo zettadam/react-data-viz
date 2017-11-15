@@ -1,6 +1,6 @@
 import React from 'react'
 
-import DemoHeader from './DemoHeader'
+import { DemoHeader } from './common'
 import ChartPanel from 'common/ChartPanel'
 
 const ChoroplethMapsDemo = props =>

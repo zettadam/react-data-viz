@@ -3,9 +3,8 @@ import React, { Component } from 'react'
 import { DemoHeader, ChartPanel } from './common'
 import { BarChart } from './charts'
 
-import { ORDINAL_DATA } from 'fakeData'
-import ANALYSIS1_JFK_ORD from 'analysis1-jfk-ord.json'
-import { MONOCHROMATIC_COLORS, COLORS } from 'themes/colors'
+import { ORDINAL_DATA } from 'fixtures/fakeData'
+import ANALYSIS1_JFK_ORD from 'fixtures/analysis1-jfk-ord.json'
 
 const yTickFormat = t => {
   if (t > 999999) return `${Math.ceil(t/1000000)}M`

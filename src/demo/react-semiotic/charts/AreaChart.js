@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { scaleLinear, scaleLog, scaleOrdinal, scaleTime } from 'd3-scale'
-import { timeFormat, timeParse } from 'd3-time-format'
+import { timeParse } from 'd3-time-format'
 import { ResponsiveXYFrame, XYFrame } from 'semiotic'
 
 import COLORS from 'common/colorSchemes'

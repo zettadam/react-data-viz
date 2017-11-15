@@ -2,13 +2,13 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
 import {
-  Label,
+  //Label,
   Point,
-  VictoryAxis,
+  //VictoryAxis,
   VictoryScatter,
   VictoryChart,
   VictoryGroup,
-  VictoryLabel,
+  //VictoryLabel,
   VictoryLegend,
   VictoryTooltip,
   VictoryZoomContainer
@@ -18,7 +18,7 @@ import VictoryTheme from './themes'
 
 import {
   adaptData,
-  createColorScale,
+  //createColorScale,
   getLegendData
 } from './utils'
 
@@ -60,7 +60,7 @@ export default class ScatterChart extends Component {
       canZoom,
       data,
       domainPadding,
-      stacked,
+      //stacked,
       theme,
       xField,
       yFields

@@ -1,6 +1,15 @@
-export AreaChart from './AreaChart'
-export BarChart from './BarChart'
-export ChordDiagram from './ChordDiagram'
-export HistogramChart from './HistogramChart'
-export LineChart from './LineChart'
-export MinimapLineChart from './MinimapLineChart'
+import AreaChart from './AreaChart'
+import BarChart from './BarChart'
+import ChordDiagram from './ChordDiagram'
+import HistogramChart from './HistogramChart'
+import LineChart from './LineChart'
+import MinimapLineChart from './MinimapLineChart'
+
+export {
+  AreaChart,
+  BarChart,
+  ChordDiagram,
+  HistogramChart,
+  LineChart,
+  MinimapLineChart
+}

@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { scaleLinear, scaleLog, scaleOrdinal, scaleTime } from 'd3-scale'
-import { timeFormat, timeParse } from 'd3-time-format'
+import { timeParse } from 'd3-time-format'
 import { ResponsiveXYFrame, XYFrame } from 'semiotic'
 
 import COLORS from 'common/colorSchemes'
@@ -90,6 +90,7 @@ export default class LineChart extends Component {
       lines,
       lineStyle: (d, i) => ({ stroke: colors[i % colors.length], strokeWidth: 2 }),
       lineType: { type: 'line', interpolator: CURVE_MAP[interpolation] },
+      matte,
       pointStyle: (d, i) => ({
         fill: 'rgba(255,255,255,0)',
         stroke: 'rgba(0,0,0,0.25)',

@@ -1,20 +1,11 @@
 import React, { Component } from 'react'
-import {
-  VictoryLabel,
-  VictoryLine,
-  VictoryScatter
-} from 'victory'
 
 import { DemoHeader, ChartPanel } from './common'
 import {
-  AreaChart,
-  Flyout1,
-  CircleFlyout1,
-  CircleFlyout2
+  AreaChart
 } from './charts'
 
-import { ORDINAL_DATA } from 'fakeData'
-import { MONOCHROMATIC_COLORS, COLORS } from 'themes/colors'
+import { ORDINAL_DATA } from 'fixtures/fakeData'
 
 export default class AreaChartsDemo extends Component {
 

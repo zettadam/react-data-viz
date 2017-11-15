@@ -8,7 +8,7 @@ import ReactRecharts from './ReactRecharts'
 import ReactVictory from './ReactVictory'
 import ReactVX from './ReactVX'
 import ReactSemiotic from './ReactSemiotic'
-import ReactChartJS from './ReactChartJS'
+//import ReactChartJS from './ReactChartJS'
 import Recommendations from './Recommendations'
 import References from './References'
 

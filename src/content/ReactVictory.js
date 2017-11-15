@@ -3,7 +3,7 @@ import ReactPlayer from 'react-player'
 
 import { LineChart } from 'demo/react-victory/charts'
 
-import { ORDINAL_DATA, TIME_SERIES } from 'fakeData'
+import { ORDINAL_DATA } from 'fixtures/fakeData'
 
 export default (props) =>
   <article>

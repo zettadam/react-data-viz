@@ -11,13 +11,13 @@ import { scaleBand, scaleLinear } from '@vx/scale'
 import { ScaleSVG } from '@vx/responsive'
 
 // D3 module imports
-import { extent, max } from 'd3-array'
+import { max } from 'd3-array'
 
-const makeSeries = ({
-  data,
-  xField,
-  yFields
-}) => yFields.map((k, i) => data.map(d => ({ x: d[xField], y: d[k] })) )
+// const makeSeries = ({
+//   data,
+//   xField,
+//   yFields
+// }) => yFields.map((k, i) => data.map(d => ({ x: d[xField], y: d[k] })) )
 
 // responsive utils for axis ticks
 const numYTicks = height => {
@@ -84,7 +84,7 @@ export default class BarChart extends Component {
   }
 
   makeXScale (options) {
-    const { data, xField, xMax, xPadding } = options
+    const { data, xField, xMax } = options
     const scale = scaleBand({
       rangeRound: [0, xMax],
       domain: data.map(d => d[xField]),
@@ -164,6 +164,7 @@ export default class BarChart extends Component {
           textAnchor: tickAnchor || 'end',
           fontSize: tickFontSize,
           fontFamily: tickFontFamily,
+          fontWeight: tickFontWeight,
           dx: '-0.25em',
           dy: '0.25em'
         })} />
@@ -195,10 +196,11 @@ export default class BarChart extends Component {
     const {
       colors,
       data,
-      xField, xScale,
+      xScale,
       yFields, yMax, yScale
     } = options
-    const series = makeSeries({ data, xField, yFields })
+
+    //const series = makeSeries({ data, xField, yFields })
 
     return data.map((d, i) => yFields.map((k, j) => {
       const barHeight = yMax - yScale(d[k])
@@ -222,7 +224,7 @@ export default class BarChart extends Component {
     const {
       colors,
       data,
-      grouped,
+      //grouped,
       height, margin, width,
       xField, xLabel,
       yFields, yLabel

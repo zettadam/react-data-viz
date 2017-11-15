@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 
-import { Treemap, ResponsiveContainer } from 'recharts'
+import { Treemap } from 'recharts'
 
-import data from 'world_population.json'
+//import data from 'fixtures/world_population.json'
 import { ChartPanel, DemoHeader } from './common'
 
 export default class TreemapsChartsDemo extends Component {
@@ -32,6 +32,8 @@ export default class TreemapsChartsDemo extends Component {
   }
 
   render () {
+
+    const { data, section } = this.props
 
     return (
       <section className="demo">

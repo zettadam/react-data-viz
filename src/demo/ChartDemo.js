@@ -1,9 +1,8 @@
 import React from 'react'
 import { NavLink, Redirect, Route, Switch, withRouter } from 'react-router-dom'
 
-import CHART_TYPE_MATRIX from 'chart-matrix.json'
+import CHART_TYPE_MATRIX from './../fixtures/chart-matrix.json'
 import ChartDemoSwitch from './ChartDemoSwitch'
-import RechartsDemo from './react-recharts/demo'
 
 const ChartDemo = ({
   match

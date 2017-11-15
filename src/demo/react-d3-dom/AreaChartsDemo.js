@@ -6,8 +6,8 @@ import {
   SingleAreaBrushZoom
 } from './charts/cartesian'
 
-import { TIME_SERIES } from 'fakeData'
-import { MONOCHROMATIC_COLORS, COLORS } from 'themes/colors'
+import { TIME_SERIES } from 'fixtures/fakeData'
+//import { MONOCHROMATIC_COLORS, COLORS } from 'themes/colors'
 
 const AreaChartsDemo = props =>
   <section className="demo">

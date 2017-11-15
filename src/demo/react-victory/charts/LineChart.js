@@ -8,14 +8,14 @@ import {
   VictoryChart,
   VictoryGroup,
   VictoryLegend,
-  VictoryPortal,
+  //VictoryPortal,
   VictoryTooltip,
   VictoryScatter
 } from 'victory'
 
 import VictoryTheme from './themes'
 
-import { adaptData, getLegendData } from './utils'
+import { getLegendData } from './utils'
 
 
 export default class LineChart extends Component {
@@ -149,10 +149,8 @@ export default class LineChart extends Component {
 
     const {
       annotations,
-      chartContainers,
       chartContainerProps,
       chartOptions,
-      colorScale,
       data,
       domain,
       domainPadding,

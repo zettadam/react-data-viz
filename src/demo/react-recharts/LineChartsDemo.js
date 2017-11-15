@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 
 import { ChartPanel, DemoHeader } from './common'
 import { LineChart } from './charts'
-import { ORDINAL_DATA, TIME_SERIES } from 'fakeData'
-import { MONOCHROMATIC_COLORS, COLORS } from 'themes/colors'
+import { ORDINAL_DATA } from 'fixtures/fakeData'
+import { COLORS } from 'themes/colors'
 
 export default class LineChartsDemo extends Component {
 

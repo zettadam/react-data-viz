@@ -5,7 +5,7 @@ import {
   VictoryChart,
   VictoryGroup,
   VictoryLabel,
-  VictoryLegend,
+  //VictoryLegend,
   VictoryPolarAxis
 } from 'victory'
 

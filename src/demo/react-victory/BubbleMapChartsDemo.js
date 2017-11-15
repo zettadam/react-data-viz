@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 import { ChartPanel, DemoHeader } from './common'
 
-export default class BubbleMapsDemo extends Component {
+export default class BubbleMapChartsDemo extends Component {
 
   constructor (props) {
     super(props)

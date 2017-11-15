@@ -4,7 +4,7 @@ import AreaChartsDemo from './AreaChartsDemo'
 import BarChartsDemo from './BarChartsDemo'
 import BoxPlotsDemo from './BoxPlotsDemo'
 import BubbleChartsDemo from './BubbleChartsDemo'
-import BubbleMapsDemo from './BubbleMapsDemo'
+import BubbleMapChartsDemo from './BubbleMapChartsDemo'
 import BulletChartsDemo from './BulletChartsDemo'
 import CandlestickChartsDemo from './CandlestickChartsDemo'
 import ChordDiagramsDemo from './ChordDiagramsDemo'
@@ -23,7 +23,7 @@ import KagiChartsDemo from './KagiChartsDemo'
 import LineChartsDemo from './LineChartsDemo'
 import MarimekkoChartsDemo from './MarimekkoChartsDemo'
 import NestedBubbleChartsDemo from './NestedBubbleChartsDemo'
-import NetworkDiagramsCharts from './NetworkDiagramsDemo'
+import NetworkDiagramsDemo from './NetworkDiagramsDemo'
 import RoseChartsDemo from './RoseChartsDemo'
 import ParallelCoordinatesPlotsDemo from './ParallelCoordinatesPlotsDemo'
 import ParallelSetsChartsDemo from './ParallelSetsChartsDemo'
@@ -60,7 +60,7 @@ const VictoryDemo = ({
     { 'error-bar' === type && <ErrorBarsChartsDemo /> }
     { 'flow-map' === type && <FlowMapsDemo /> }
     { 'heatmap' === type && <HeatmapsChartsDemo /> }
-    { 'histogram' === type && <HistorgramsChartsDemo /> }
+    { 'histogram' === type && <HistogramsChartsDemo /> }
     { 'kagi' === type && <KagiChartsDemo /> }
     { 'line' === type && <LineChartsDemo /> }
     { 'marimekko' === type && <MarimekkoChartsDemo /> }
@@ -68,7 +68,7 @@ const VictoryDemo = ({
     { 'network' === type && <NetworkDiagramsDemo /> }
     { 'rose' === type && <RoseChartsDemo /> }
     { 'parallel-coordinates' === type && <ParallelCoordinatesPlotsDemo /> }
-    { 'parallel-set' === type && <parallelSetsChartsDemo /> }
+    { 'parallel-set' === type && <ParallelSetsChartsDemo /> }
     { 'pie' === type && <PieChartsDemo /> }
     { 'radar' === type && <RadarChartsDemo /> }
     { 'sankey' === type && <SankeyChartsDemo /> }

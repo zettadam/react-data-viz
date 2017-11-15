@@ -3,13 +3,13 @@ import React from 'react'
 import { ChartPanel, DemoHeader } from './common'
 import {
   GroupedBars,
-  GroupedStackedBars,
+  //GroupedStackedBars,
   SingleBars,
   StackedBars
  } from './charts/cartesian'
 
- import { ORDINAL_DATA } from 'fakeData'
- import { MONOCHROMATIC_COLORS, COLORS } from 'themes/colors'
+ import { ORDINAL_DATA } from 'fixtures/fakeData'
+ import { COLORS } from 'themes/colors'
 
 const BarChartsDemo = props =>
   <section className="demo">

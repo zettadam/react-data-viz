@@ -1,8 +1,6 @@
 import React, { Component } from 'react'
 import {
-  VictoryLabel,
-  VictoryLine,
-  VictoryScatter
+  VictoryLine
 } from 'victory'
 import moment from 'moment'
 
@@ -11,12 +9,11 @@ import {
   LineChart,
   LineChartMinimap,
   Flyout1,
-  CircleFlyout1,
   CircleFlyout2
 } from './charts'
 
-import { ORDINAL_DATA, TIME_SERIES } from 'fakeData'
-import DATA from 'house-price-index-usa.json'
+import { ORDINAL_DATA } from 'fixtures/fakeData'
+import DATA from 'fixtures/house-price-index-usa.json'
 
 
 const timeTickFormatShort = t => t.includes('01-01') ? moment(t).format('YYYY') : moment(t).format('MMM')

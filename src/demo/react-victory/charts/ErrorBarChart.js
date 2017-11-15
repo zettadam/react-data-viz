@@ -33,10 +33,8 @@ export default class ErrorBarChart extends Component {
       data,
       domainPadding,
       events,
-      height,
       style,
-      theme,
-      width
+      theme
     } = this.props
 
     const chartProps = {

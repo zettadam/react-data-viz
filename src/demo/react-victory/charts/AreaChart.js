@@ -6,7 +6,7 @@ import {
   VictoryArea,
   VictoryAxis,
   VictoryChart,
-  VictoryCursorContainer,
+  //VictoryCursorContainer,
   VictoryGroup,
   VictoryLegend,
   VictoryStack,
@@ -15,7 +15,7 @@ import {
 
 import VictoryTheme from './themes'
 
-import { adaptData, getLegendData } from './utils'
+import { getLegendData } from './utils'
 
 
 export default class AreaChart extends Component {
@@ -110,7 +110,6 @@ export default class AreaChart extends Component {
   render () {
     const {
       annotations,
-      chartContainers,
       chartOptions,
       data,
       domain,
@@ -132,14 +131,13 @@ export default class AreaChart extends Component {
     if (domain) chartProps.domain = domain
     if (domainPadding) chartProps.domainPadding = domainPadding
     if (scale && !xAxis && !yAxis) chartProps.scale = scale
-    if (chartOptions) chartProps = { ...chartProps, ...chartOptions }
 
     const props = {
       categories: { x: data.map(d => d[xField]) }
     }
 
     return (
-      <VictoryChart { ...chartProps }>
+      <VictoryChart { ...chartProps } { ...chartOptions }>
 
         <VictoryAxis
           fixLabelOverlap

@@ -1,10 +1,6 @@
 import React from 'react'
-import Chart from 'react-chartjs-2'
 
 import CartesianChart from './CartesianChart'
-import { MONOCHROMATIC_COLORS, COLORS } from 'themes/colors'
-
-const colors = COLORS['qualitative1']
 
 class BarAdapter extends Object {
 

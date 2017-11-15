@@ -1,14 +1,14 @@
 import React from 'react'
 
 import {
-  GroupedBars,
-  GroupedStackedBars,
-  SingleBars,
+  //GroupedBars,
+  //GroupedStackedBars,
+  //SingleBars,
   StackedBars
  } from 'demo/react-d3-dom/charts/cartesian'
 
- import { ORDINAL_DATA } from 'fakeData'
- import { MONOCHROMATIC_COLORS, COLORS } from 'themes/colors'
+ import { ORDINAL_DATA } from 'fixtures/fakeData'
+ import { COLORS } from 'themes/colors'
 
 export default props => (
   <article>
@@ -243,7 +243,7 @@ export default props => (
             exploring is higher-level abstraction, perhaps more along the lines
             of Grammar of Graphics.</p>
           <p className="attribution">
-            <img class="avatar" src="/static/experts/michael-bostock.jpg" width="30" height="30" />
+            <img class="avatar" src="/static/experts/michael-bostock.jpg" width="30" height="30" alt="Michael Bostock" />
             <span><a href="https://news.ycombinator.com/item?id=11998072">Mike Bostock</a>, creator of D3</span>
           </p>
         </div>

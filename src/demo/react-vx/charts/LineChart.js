@@ -7,13 +7,13 @@ import { AxisLeft, AxisBottom } from '@vx/axis'
 import { Grid } from '@vx/grid'
 import { Group } from '@vx/group'
 import { LinePath } from '@vx/shape'
-import { GlyphDot } from '@vx/glyph'
+//import { GlyphDot } from '@vx/glyph'
 import { scaleTime, scaleLinear } from '@vx/scale'
 import { ScaleSVG } from '@vx/responsive'
 
 // D3 module imports
-import { extent, max } from 'd3-array'
-import { timeFormat, timeParse } from 'd3-time-format'
+import { max } from 'd3-array'
+import { timeParse } from 'd3-time-format'
 
 import COLORS from 'common/colorSchemes'
 import { CURVE_MAP } from '../common'
@@ -161,7 +161,7 @@ export default class LineChart extends Component {
       lineAttrs,
       theme,
       timeFormat,
-      xField, xFormat, xScale,
+      xField, xScale,
       yFields, yScale
     } = options
 

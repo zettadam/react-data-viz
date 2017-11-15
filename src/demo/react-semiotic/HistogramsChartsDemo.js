@@ -4,7 +4,7 @@ import { ChartPanel, DemoHeader } from './common'
 
 import { HistogramChart } from './charts'
 
-import { ORDINAL_DATA } from 'fakeData'
+import { ORDINAL_DATA } from 'fixtures/fakeData'
 
 export default class HistogramsChartsDemo extends Component {
 

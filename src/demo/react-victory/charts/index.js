@@ -1,15 +1,32 @@
-export AreaChart from './AreaChart'
-export BarChart from './BarChart'
-export CandlestickChart from './CandlestickChart'
-export ErrorBarChart from './ErrorBarChart'
-export LineChart from './LineChart'
-export LineChartMinimap from './LineChartMinimap'
-export PieChart from './PieChart'
-export RadarChart from './RadarChart'
-export RoseChart from './RoseChart'
-export ScatterChart from './ScatterChart'
-export VoronoiChart from './VoronoiChart'
+import AreaChart from './AreaChart'
+import BarChart from './BarChart'
+import CandlestickChart from './CandlestickChart'
+import ErrorBarChart from './ErrorBarChart'
+import LineChart from './LineChart'
+import LineChartMinimap from './LineChartMinimap'
+import PieChart from './PieChart'
+import RadarChart from './RadarChart'
+import RoseChart from './RoseChart'
+import ScatterChart from './ScatterChart'
+import VoronoiChart from './VoronoiChart'
 
-export Flyout1 from './tooltips/Flyout1'
-export CircleFlyout1 from './tooltips/CircleFlyout1'
-export CircleFlyout2 from './tooltips/CircleFlyout2'
+import CircleFlyout1 from './tooltips/CircleFlyout1'
+import CircleFlyout2 from './tooltips/CircleFlyout2'
+import Flyout1 from './tooltips/Flyout1'
+
+export {
+  AreaChart,
+  BarChart,
+  CandlestickChart,
+  ErrorBarChart,
+  LineChart,
+  LineChartMinimap,
+  PieChart,
+  RadarChart,
+  RoseChart,
+  ScatterChart,
+  VoronoiChart,
+  CircleFlyout1,
+  CircleFlyout2,
+  Flyout1
+}

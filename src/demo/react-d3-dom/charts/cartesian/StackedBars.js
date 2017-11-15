@@ -3,13 +3,6 @@ import * as d3 from 'd3'
 import d3tip from 'd3-tip'
 import { isEqual } from 'lodash'
 
-import {
-  MONOCHROMATIC_COLORS,
-  CUSTOM_COLORS
-} from '../colors'
-
-const COLOR_SCHEME = MONOCHROMATIC_COLORS['theme3']
-
 export default class StackedBars extends Component {
 
   static defaultProps = {
@@ -117,7 +110,7 @@ export default class StackedBars extends Component {
         .attr('text-anchor', 'end')
         .text('Traffic')
 
-    const bars = g.selectAll('.bar')
+    g.selectAll('.bar')
       .data(d3.stack().keys(yFields)(data))
       .enter()
       .append('g')

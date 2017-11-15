@@ -3,8 +3,7 @@ import React, { Component } from 'react'
 import { ChartPanel, DemoHeader } from './common'
 import { LineChart } from './charts'
 
-import { ORDINAL_DATA, TIME_SERIES } from 'fakeData'
-import DATA from 'house-price-index-usa.json'
+import DATA from 'fixtures/house-price-index-usa.json'
 
 
 export default class LineChartsDemo extends Component {

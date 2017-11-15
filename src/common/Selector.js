@@ -20,7 +20,6 @@ export default class Selector extends Component {
   render () {
 
     const {
-      multiple,
       onChange,
       options,
       title,

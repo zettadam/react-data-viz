@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import { random, range, merge } from 'lodash'
+import { merge } from 'lodash'
 
 import { DemoHeader, ChartPanel } from './common'
 import { CandlestickChart } from './charts'
 
-import { getCandlestickData } from 'fakeData'
+import { getCandlestickData } from 'fixtures/fakeData'
 
 const DATA = getCandlestickData(50)
 

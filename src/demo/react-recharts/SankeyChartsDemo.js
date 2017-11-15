@@ -3,7 +3,7 @@ import { Sankey, Tooltip, ResponsiveContainer } from 'recharts'
 
 import { ChartPanel, DemoHeader } from './common'
 
-import data from 'energy.json'
+import data from 'fixtures/energy.json'
 
 export default class SankeyChartsDemo extends Component {
 

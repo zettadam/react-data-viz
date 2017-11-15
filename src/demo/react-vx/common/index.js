@@ -19,9 +19,15 @@ import {
   curveStepBefore
 } from 'd3-shape'
 
-export ChartPanel from './ChartPanel'
-export DemoHeader from './DemoHeader'
-export InterpolationSelector from './InterpolationSelector'
+import ChartPanel from './ChartPanel'
+import DemoHeader from './DemoHeader'
+import InterpolationSelector from './InterpolationSelector'
+
+export {
+  ChartPanel,
+  DemoHeader,
+  InterpolationSelector
+}
 
 export const CURVE_MAP = {
   basis: curveBasis,

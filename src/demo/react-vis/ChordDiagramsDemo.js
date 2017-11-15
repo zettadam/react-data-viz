@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import { NetworkFrame } from 'semiotic'
 
 import { ChartPanel, DemoHeader } from './common'
 import { ChordDiagram } from './charts'

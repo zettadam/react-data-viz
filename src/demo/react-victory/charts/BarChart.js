@@ -114,7 +114,7 @@ export default class BarChart extends Component {
       horizontal,
       grouped,
       legendProps,
-      offset,
+      //offset,
       scale,
       stacked,
       theme,
@@ -122,8 +122,8 @@ export default class BarChart extends Component {
       xField,
       yAxis,
       yFields,
-      yMax,
-      yMin
+      //yMax,
+      //yMin
     } = this.props
 
     const chartProps = {

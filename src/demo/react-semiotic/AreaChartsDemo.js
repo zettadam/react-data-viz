@@ -4,9 +4,8 @@ import moment from 'moment'
 import { ChartPanel, DemoHeader } from './common'
 import { AreaChart } from './charts'
 
-import { COLORS } from 'themes/colors'
-import { ORDINAL_DATA, TIME_SERIES } from 'fakeData'
-import DATA from 'house-price-index-usa.json'
+import { TIME_SERIES } from 'fixtures/fakeData'
+import DATA from 'fixtures/house-price-index-usa.json'
 
 export default class AreaChartsDemo extends Component {
 

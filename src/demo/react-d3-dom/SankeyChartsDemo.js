@@ -5,8 +5,7 @@ import {
   SankeyChart
 } from './charts'
 
-import data from 'energy.json'
-import { MONOCHROMATIC_COLORS, COLORS } from 'themes/colors'
+import data from 'fixtures/energy.json'
 
 const SankeyChartsDemo = props =>
   <section className="demo">

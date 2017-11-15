@@ -11,13 +11,13 @@ import { scaleBand, scaleLinear, scaleOrdinal } from '@vx/scale'
 import { ScaleSVG } from '@vx/responsive'
 
 // D3 module imports
-import { extent, max } from 'd3-array'
+import { max } from 'd3-array'
 
-const makeSeries = ({
-  data,
-  xField,
-  yFields
-}) => yFields.map((k, i) => data.map(d => ({ x: d[xField], y: d[k] })) )
+// const makeSeries = ({
+//   data,
+//   xField,
+//   yFields
+// }) => yFields.map((k, i) => data.map(d => ({ x: d[xField], y: d[k] })) )
 
 // responsive utils for axis ticks
 const numYTicks = height => {
@@ -98,7 +98,7 @@ export default class GroupedBarChart extends Component {
   renderGrid (options) {
     const {
       height, width, margin: { top, left },
-      x0Scale, x1Scale, xMax,
+      x0Scale, xMax,
       yScale, yMax
     } = options
 
@@ -154,9 +154,7 @@ export default class GroupedBarChart extends Component {
 
   renderBars (options) {
     const {
-      colors,
       data,
-      margin,
       xField, x0Scale, x1Scale,
       yFields, yMax, yScale,
       zScale
@@ -186,7 +184,6 @@ export default class GroupedBarChart extends Component {
     const {
       colors,
       data,
-      grouped,
       height, margin, width,
       xField, xLabel,
       yFields, yLabel

@@ -4,7 +4,7 @@ import AreaChartsDemo from './AreaChartsDemo'
 import BarChartsDemo from './BarChartsDemo'
 import BoxPlotsDemo from './BoxPlotsDemo'
 import BubbleChartsDemo from './BubbleChartsDemo'
-import BubbleMapsDemo from './BubbleMapsDemo'
+import BubbleMapChartsDemo from './BubbleMapChartsDemo'
 import BulletChartsDemo from './BulletChartsDemo'
 import CandlestickChartsDemo from './CandlestickChartsDemo'
 import ChordDiagramsDemo from './ChordDiagramsDemo'
@@ -59,7 +59,7 @@ const ChartJSDemo = ({
     { 'error-bar' === type && <ErrorBarsChartsDemo /> }
     { 'flow-map' === type && <FlowMapsDemo /> }
     { 'heatmap' === type && <HeatmapsChartsDemo /> }
-    { 'histogram' === type && <HistorgramsChartsDemo /> }
+    { 'histogram' === type && <HistogramsChartsDemo /> }
     { 'kagi' === type && <KagiChartsDemo /> }
     { 'line' === type && <LineChartsDemo /> }
     { 'marimekko' === type && <MarimekkoChartsDemo /> }
@@ -67,7 +67,7 @@ const ChartJSDemo = ({
     { 'network-diagram' === type && <NetworkDiagramsDemo /> }
     { 'rose' === type && <RoseChartsDemo /> }
     { 'parallel-coordinates-plot' === type && <ParallelCoordinatesPlotsDemo /> }
-    { 'parallel-set' === type && <parallelSetsChartsDemo /> }
+    { 'parallel-set' === type && <ParallelSetsChartsDemo /> }
     { 'pie' === type && <PieChartsDemo /> }
     { 'radar' === type && <RadarChartsDemo /> }
     { 'scatter' === type && <ScatterPlotsDemo /> }

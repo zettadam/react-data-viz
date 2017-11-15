@@ -1,3 +1,9 @@
-export AreaChart from './AreaChart'
-export LineChart from './LineChart'
-export ChordDiagram from './ChordDiagram'
+import AreaChart from './AreaChart'
+import ChordDiagram from './ChordDiagram'
+import LineChart from './LineChart'
+
+export {
+  AreaChart,
+  ChordDiagram,
+  LineChart
+}

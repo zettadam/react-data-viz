@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink, Route, Switch } from 'react-router-dom'
 
-import CHART_TYPE_MATRIX from 'chart-matrix.json'
+import CHART_TYPE_MATRIX from './fixtures/chart-matrix.json'
 import ChartDemo from './demo/ChartDemo'
 import ContentSection from './content/ContentSection'
 

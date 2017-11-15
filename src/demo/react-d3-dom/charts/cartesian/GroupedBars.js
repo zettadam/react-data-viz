@@ -116,6 +116,8 @@ export default class GroupedBars extends Component {
           .attr('fill', d => zScale(d.key))
           .on('mouseover', tip.show)
           .on('mouseout', tip.hide)
+
+    console.log( 'bars', bars)
   }
 
   render () {

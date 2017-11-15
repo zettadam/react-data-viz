@@ -2,13 +2,11 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
 import {
-  VictoryChart,
+  //VictoryChart,
   VictoryPie
 } from 'victory'
 
 import VictoryTheme from './themes'
-
-import { adaptData } from './utils'
 
 
 export default class AreaChart extends Component {

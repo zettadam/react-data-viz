@@ -9,7 +9,7 @@ import {
   VictoryChart,
   VictoryGroup,
   VictoryLegend,
-  VictoryPortal,
+  //VictoryPortal,
   VictoryTooltip,
   VictoryScatter,
   VictoryZoomContainer
@@ -150,21 +150,15 @@ export default class LineChartMinimap extends Component {
   render () {
 
     const {
-      allowZoom,
       annotations,
       brushContainerProps,
       brushDomainPadding,
       brushXAxis,
-      brushYAxis,
-      chartContainers,
-      chartContainerProps,
       chartOptions,
-      colorScale,
       data,
       domainPadding,
       handleStyle,
       height,
-      interpolation,
       legendProps,
       scale,
       theme,

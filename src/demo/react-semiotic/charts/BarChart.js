@@ -1,8 +1,6 @@
 import React, { Component } from 'react'
-import PropTypes from 'prop-types'
 
 import {
-  ORFrame,
   ResponsiveORFrame
 } from 'semiotic'
 
@@ -35,17 +33,12 @@ export default class BarChart extends Component {
     width: 533
   }
 
-  constructor (props) {
-    super(props)
-  }
-
   render () {
 
     const {
       axis,
       data,
       height,
-      hoverAnnotation,
       margin,
       oAccessor,
       oLabel,

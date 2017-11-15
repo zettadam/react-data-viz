@@ -2,14 +2,7 @@ import React, { Component } from 'react'
 import * as d3 from 'd3'
 import { isEqual } from 'lodash'
 
-import {
-  MONOCHROMATIC_COLORS,
-  CUSTOM_COLORS
-} from '../colors'
 import { CURVE_MAP } from '../../common'
-
-const COLOR_SCHEME = MONOCHROMATIC_COLORS['theme3']
-
 
 export default class SingleArea extends Component {
 

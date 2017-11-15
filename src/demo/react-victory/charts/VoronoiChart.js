@@ -30,12 +30,8 @@ export default class Chart extends Component {
   render () {
     const {
       canZoom,
-      data,
       domainPadding,
-      theme,
-      xField,
-      yField,
-      withCursorContainer
+      theme
     } = this.props
 
     const chartProps = {

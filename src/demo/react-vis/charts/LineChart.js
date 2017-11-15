@@ -7,12 +7,12 @@ import {
   XAxis,
   YAxis,
   HorizontalGridLines,
-  VerticalGridLines,
+  //VerticalGridLines,
   LineSeries,
   LineMarkSeries
 } from 'react-vis'
-import { extent, max } from 'd3-array'
-import { timeFormat, timeParse } from 'd3-time-format'
+//import { extent, max } from 'd3-array'
+import { timeParse } from 'd3-time-format'
 import moment from 'moment'
 
 import COLORS from 'common/colorSchemes'
@@ -109,14 +109,11 @@ export default class LineChart extends Component {
   render () {
 
     const {
-      data,
       height,
       margin,
       width,
-      xField,
       xTickTotal,
       xType,
-      yFields,
       yTickTotal,
       yType
     } = this.props

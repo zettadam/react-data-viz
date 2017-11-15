@@ -1,3 +1,9 @@
-export AreaChart from './AreaChart'
-export BarChart from './BarChart'
-export LineChart from './LineChart'
+import AreaChart from './AreaChart'
+import BarChart from './BarChart'
+import LineChart from './LineChart'
+
+export {
+  AreaChart,
+  BarChart,
+  LineChart
+}

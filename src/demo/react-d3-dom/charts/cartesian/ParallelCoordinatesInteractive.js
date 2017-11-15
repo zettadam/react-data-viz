@@ -61,7 +61,7 @@ export default class ParallelCoordinatesInteractive extends Component {
     const x = this.x = d3.scaleOrdinal().range([0, aWidth], 1)
     const y = this.y = {}
 
-    const line = this.line = d3.line()
+    this.path = d3.line()
     const axis = d3.axisLeft()
 
     svg.attr("width", aWidth + margin.left + margin.right)
@@ -70,7 +70,7 @@ export default class ParallelCoordinatesInteractive extends Component {
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
 
     const dimensions = this.dimensions = d3.keys(data[0]).filter(d => {
-      return d != "name" && (y[d] = d3.scaleLinear()
+      return d !== "name" && (y[d] = d3.scaleLinear()
         .domain(d3.extent(data, p => +p[d]))
         .range([aHeight, 0]))
     })
@@ -79,7 +79,7 @@ export default class ParallelCoordinatesInteractive extends Component {
     x.domain(dimensions)
 
     // Add grey background lines for context.
-    const background = svg.append("g")
+    svg.append("g")
         .attr("class", "background")
       .selectAll("path")
         .data(data)
@@ -87,7 +87,7 @@ export default class ParallelCoordinatesInteractive extends Component {
         .attr("d", this.path)
 
     // Add blue foreground lines for focus.
-    const foreground = this.foreground = svg.append("g")
+    this.foreground = svg.append("g")
         .attr("class", "foreground")
       .selectAll("path")
         .data(data)

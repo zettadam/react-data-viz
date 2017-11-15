@@ -2,8 +2,7 @@ import React, { Component } from 'react'
 
 import { ChartPanel, DemoHeader } from './common'
 import { AreaChart } from './charts'
-import { TIME_SERIES } from 'fakeData'
-import { MONOCHROMATIC_COLORS, COLORS } from 'themes/colors'
+import { TIME_SERIES } from 'fixtures/fakeData'
 
 export default class AreaChartsDemo extends Component {
 

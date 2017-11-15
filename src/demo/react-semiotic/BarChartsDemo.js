@@ -1,16 +1,14 @@
 import React, { Component } from 'react'
-import { ORFrame, ResponsiveORFrame } from 'semiotic'
-
 
 import { ChartPanel, DemoHeader } from './common'
 import { BarChart } from './charts'
-import { ORDINAL_DATA } from 'fakeData'
+import { ORDINAL_DATA } from 'fixtures/fakeData'
 
-const yTickFormat = t => {
-  if (t > 999999) return `${t % 1000000}M`
-  if (t > 999) return `${t % 1000}K`
-  return t
-}
+// const yTickFormat = t => {
+//   if (t > 999999) return `${t % 1000000}M`
+//   if (t > 999) return `${t % 1000}K`
+//   return t
+// }
 
 export default class BarChartsDemo extends Component {
 

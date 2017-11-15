@@ -7,12 +7,11 @@ import {
   XAxis,
   YAxis,
   HorizontalGridLines,
-  VerticalGridLines,
+  //VerticalGridLines,
   AreaSeries
 } from 'react-vis'
-import { extent, max } from 'd3-array'
-import { timeFormat, timeParse } from 'd3-time-format'
-import moment from 'moment'
+//import { extent, max } from 'd3-array'
+import { timeParse } from 'd3-time-format'
 
 import COLORS from 'common/colorSchemes'
 import { CURVE_MAP } from '../common'
@@ -53,13 +52,13 @@ export default class AreaChart extends Component {
     const {
       data,
       interpolation,
-      markSize,
+      //markSize,
       opacity,
       scale,
       theme,
       timeFormat,
       xField,
-      xType,
+      //xType,
       xPadding,
       yFields,
       yPadding
@@ -96,15 +95,15 @@ export default class AreaChart extends Component {
   render () {
 
     const {
-      data,
+      //data,
       height,
       margin,
       stackBy,
       width,
       xAxis,
-      xField,
+      //xField,
       yAxis,
-      yFields
+      //yFields
     } = this.props
 
     // Plot props

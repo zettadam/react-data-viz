@@ -1,5 +1,10 @@
-export ChartPanel from './ChartPanel'
-export DemoHeader from './DemoHeader'
+import ChartPanel from './ChartPanel'
+import DemoHeader from './DemoHeader'
+
+export {
+  ChartPanel,
+  DemoHeader
+}
 
 export const INTERPOLATION_OPTIONS = [
   'basis',

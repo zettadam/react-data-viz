@@ -18,8 +18,13 @@ import {
   curveStepBefore
 } from 'd3-shape'
 
-export ChartPanel from './ChartPanel'
-export DemoHeader from './DemoHeader'
+import ChartPanel from './ChartPanel'
+import DemoHeader from './DemoHeader'
+
+export {
+  ChartPanel,
+  DemoHeader
+}
 
 export const CURVE_MAP = {
   basis: curveBasis,

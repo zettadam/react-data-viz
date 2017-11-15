@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
 import moment from 'moment'
-import { MinimapXYFrame } from 'semiotic'
+//import { MinimapXYFrame } from 'semiotic'
 
 import { ChartPanel, DemoHeader } from './common'
 import { LineChart, MinimapLineChart } from './charts'
 
-import US_HOUSE_PRICE_INDEX_DATA from 'house-price-index-usa.json'
+import US_HOUSE_PRICE_INDEX_DATA from 'fixtures/house-price-index-usa.json'
 
 
 export default class LineChartsDemo extends Component {

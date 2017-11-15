@@ -2,7 +2,6 @@ import React, { Component } from 'react'
 
 import { DemoHeader, ChartPanel } from './common'
 import { PieChart } from './charts'
-import { ORDINAL_DATA, TIME_SERIES } from 'fakeData'
 
 export default class PieChartsDemo extends Component {
 

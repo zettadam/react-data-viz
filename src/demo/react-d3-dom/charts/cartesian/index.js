@@ -1,9 +1,21 @@
-export SingleArea from './SingleArea'
-export SingleAreaBrushZoom from './SingleAreaBrushZoom'
-export SingleBars from './SingleBars'
-export GroupedBars from './GroupedBars'
-export GroupedStackedBars from './GroupedStackedBars'
-export StackedBars from './StackedBars'
-export SingleLine from './SingleLine'
-export MarimekkoChart from './MarimekkoChart'
-export ParallelCoordinatesInteractive from './ParallelCoordinatesInteractive'
+import GroupedBars from './GroupedBars'
+import GroupedStackedBars from './GroupedStackedBars'
+import MarimekkoChart from './MarimekkoChart'
+import ParallelCoordinatesInteractive from './ParallelCoordinatesInteractive'
+import SingleArea from './SingleArea'
+import SingleAreaBrushZoom from './SingleAreaBrushZoom'
+import SingleBars from './SingleBars'
+import SingleLine from './SingleLine'
+import StackedBars from './StackedBars'
+
+export {
+  GroupedBars,
+  GroupedStackedBars,
+  MarimekkoChart,
+  ParallelCoordinatesInteractive,
+  SingleArea,
+  SingleAreaBrushZoom,
+  SingleBars,
+  SingleLine,
+  StackedBars
+}

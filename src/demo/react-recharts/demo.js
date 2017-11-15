@@ -23,7 +23,7 @@ import KagiChartsDemo from './KagiChartsDemo'
 import LineChartsDemo from './LineChartsDemo'
 import MarimekkoChartsDemo from './MarimekkoChartsDemo'
 import NestedBubbleChartsDemo from './NestedBubbleChartsDemo'
-import NetworkDiagramsCharts from './NetworkDiagramsDemo'
+import NetworkDiagramsDemo from './NetworkDiagramsDemo'
 import RoseChartsDemo from './RoseChartsDemo'
 import ParallelCoordinatesPlotsDemo from './ParallelCoordinatesPlotsDemo'
 import ParallelSetsChartsDemo from './ParallelSetsChartsDemo'
@@ -68,7 +68,7 @@ const RechartsDemo = ({
     { 'network' === type && <NetworkDiagramsDemo /> }
     { 'rose' === type && <RoseChartsDemo /> }
     { 'parallel-coordinates' === type && <ParallelCoordinatesPlotsDemo /> }
-    { 'parallel-set' === type && <parallelSetsChartsDemo /> }
+    { 'parallel-set' === type && <ParallelSetsChartsDemo /> }
     { 'pie' === type && <PieChartsDemo /> }
     { 'radar' === type && <RadarChartsDemo /> }
     { 'sankey' === type && <SankeyChartsDemo /> }

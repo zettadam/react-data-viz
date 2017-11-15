@@ -1,5 +1,13 @@
-export Introduction from './Introduction'
-export AreaChartsDemo from './AreaChartsDemo'
-export BarChartsDemo from './BarChartsDemo'
-export LineChartsDemo from './LineChartsDemo'
-export PieChartsDemo from './PieChartsDemo'
+import AreaChartsDemo from './AreaChartsDemo'
+import BarChartsDemo from './BarChartsDemo'
+import Introduction from './Introduction'
+import LineChartsDemo from './LineChartsDemo'
+import PieChartsDemo from './PieChartsDemo'
+
+export {
+  AreaChartsDemo,
+  BarChartsDemo,
+  Introduction,
+  LineChartsDemo,
+  PieChartsDemo
+}

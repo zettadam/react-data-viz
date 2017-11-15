@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { scaleLinear, scaleLog, scaleOrdinal, scaleTime } from 'd3-scale'
-import { timeFormat, timeParse } from 'd3-time-format'
+import { timeParse } from 'd3-time-format'
 import { MinimapXYFrame, ResponsiveMinimapXYFrame } from 'semiotic'
 
 import COLORS from 'common/colorSchemes'
@@ -75,7 +75,6 @@ export default class LineChart extends Component {
       responsiveHeight,
       responsiveWidth,
       scale,
-      showLinePoints,
       timeFormat,
       theme,
       tooltipContent,
@@ -105,7 +104,9 @@ export default class LineChart extends Component {
       legend,
       lineDataAccessor,
       lines,
-      lineStyle: d => ({ fill: colors[0], fillOpacity: 0.5, stroke: colors[0], strokeWidth: 2 }),
+      lineStyle: (d, i) => ({ stroke: colors[i % colors.length], strokeWidth: 2 }),
+      lineType: { type: 'line', interpolator: CURVE_MAP[interpolation] },
+      matte,
       minimap: {
         axes: [ axes[1] ],
         brushEnd: this.updateDateRange,
@@ -116,9 +117,6 @@ export default class LineChart extends Component {
         yBrushable: false,
         xBrushExtent: this.state.extent
       },
-      lineStyle: (d, i) => ({ stroke: colors[i % colors.length], strokeWidth: 2 }),
-      lineType: { type: 'line', interpolator: CURVE_MAP[interpolation] },
-      matte,
       size: [width, height],
       xAccessor: d => d.x,
       xScaleType:

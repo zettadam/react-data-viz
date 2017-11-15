@@ -2,11 +2,11 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
 import {
-  ORFrame,
+  //ORFrame,
   ResponsiveORFrame
 } from 'semiotic'
 
-import COLORS from 'common/colorSchemes'
+//import COLORS from 'common/colorSchemes'
 
 
 export default class HistogramChart extends Component {
@@ -46,11 +46,6 @@ export default class HistogramChart extends Component {
     width: 533
   }
 
-  constructor (props) {
-    super(props)
-  }
-
-
   render () {
 
     const {
@@ -67,12 +62,12 @@ export default class HistogramChart extends Component {
       responsiveHeight,
       responsiveWidth,
       summaryType,
-      theme,
+      //theme,
       type,
       width
     } = this.props
 
-    const colors = COLORS[theme] || COLORS['schemeAccent']
+    //const colors = COLORS[theme] || COLORS['schemeAccent']
     const style = d => {
       console.log( 'd', d)
       return {

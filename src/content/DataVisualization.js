@@ -22,7 +22,7 @@ export default (props) =>
             is to <u>enable better decisions and actions</u>.
           </p>
           <p className="attribution">
-            <img src="/static/experts/stephen-few.jpg" width="30" height="30" />
+            <img src="/static/experts/stephen-few.jpg" width="30" height="30" alt="Stephen Few" />
             <a href="http://www.perceptualedge.com/blog/?p=2636">Stephen Few</a>, What Is Data Visualization?
           </p>
         </div>
@@ -46,7 +46,7 @@ export default (props) =>
             is shown, and <strong>how</strong> the idiom is designed.
           </p>
           <p className="attribution">
-            <img src="/static/experts/tamara-munzner.jpg" height="30" eidth="40" />
+            <img src="/static/experts/tamara-munzner.jpg" height="30" eidth="40" alt="Tamara Munzner" />
             <a href="https://www.safaribooksonline.com/library/view/visualization-analysis-and/9781466508910/K14708_C000.xhtml">Tamara Munzner</a>,
             Visualization Analysis and Design
           </p>

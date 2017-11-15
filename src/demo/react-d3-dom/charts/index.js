@@ -1,2 +1,7 @@
-export PieChart from './PieChart'
-export SankeyChart from './SankeyChart'
+import PieChart from './PieChart'
+import SankeyChart from './SankeyChart'
+
+export {
+  PieChart,
+  SankeyChart
+}

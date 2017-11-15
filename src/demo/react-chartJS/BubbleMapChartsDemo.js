@@ -1,9 +1,9 @@
 import React from 'react'
 
-import DemoHeader from './DemoHeader'
+import { DemoHeader } from './common'
 import ChartPanel from 'common/ChartPanel'
 
-const BubbleMapsDemo = props =>
+const BubbleMapChartsDemo = props =>
   <section className="demo">
     <DemoHeader />
 
@@ -14,4 +14,4 @@ const BubbleMapsDemo = props =>
 
   </section>
 
-export default BubbleMapsDemo
+export default BubbleMapChartsDemo
